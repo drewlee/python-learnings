@@ -1,0 +1,118 @@
+Award Categories
+----------------
+01. Best supporting actress
+02. Best makeup and hairstyling
+03. Best original score
+04. Best live action short film
+05. Best adapted screenplay
+06. Best original screenplay
+07. Best supporting actor
+08. Best animated short film
+09. Best casting
+10. Best original song
+11. Best documentary feature film
+12. Best documentary short film
+13. Best international feature film
+14. Best animated feature film
+15. Best production design
+16. Best film editing
+17. Best sound
+18. Best visual effects
+19. Best cinematography
+20. Best actor
+21. Best actress
+22. Best director
+23. Best picture
+24. Best costume design
+
+Nominated Films
+---------------
+01. Sentimental Value
+02. Weapons
+03. Sinners
+04. One Battle After Another
+05. Frankenstein
+06. Kokuho
+07. The Smashing Machine
+08. The Ugly Stepsister
+09. Bugonia
+10. Hamnet
+11. Butcher's Stain
+12. Jane Austen's Period Drama
+13. The Singers
+14. Two People Exchanging Saliva
+15. Train Dreams
+16. Blue Moon
+17. It Was Just an Accident
+18. Marty Supreme
+19. Butterfly
+20. Forevergreen
+21. The Girl Who Cried Pearls
+22. Retirement Plan
+23. The Three Sisters
+24. The Secret Agent
+25. Diane Warren: Relentless
+26. KPop Demon Hunters
+27. Viva Verdi!
+28. The Alabama Solution
+29. Come See Me in the Good Light
+30. Cutting Through Rocks
+31. Mr. Nobody Against Putin
+32. The Perfect Neighbor
+33. All the Empty Rooms
+34. Armed Only with a Camera: The Life and Death of Brent Renaud
+35. Children No More: 'Were And Are Gone'
+36. The Devil is Busy
+37. Perfectly a Strangeness
+38. The Secret Agent
+39. It Was Just an Accident
+40. Sirât
+41. The Voice of Hinad Rajab
+42. Arco
+43. Elio
+44. Little Amélie or the Character of Rain
+45. Zootopia 2
+46. F1
+47. Avatar: Fire and Ash
+48. Jurassic World Rebirth
+49. The Lost Bus
+50. If I Had Legs I'd Kick You
+51. Song Sung Blue
+
+Get movie recommendations by:
+1. Award category
+2. Cast and crew
+3. Genre
+
+Film Genre
+---------------
+Action Adventure
+Sci-Fi
+Drama
+Comedy
+Short film
+Animation
+Documentary
+Music
+Horror
+Thriller
+Period drama
+International
+
+Objective
+---------
+The user wants to watch movies that have been nominated for the 2026 Academy Awards.
+The user wants to get recommendations based on a particular attribute, such as
+- the category it was nominated for
+- the genre of the film
+- a person who's associated with the film (director, screen writer, composer, actor or actress)
+
+Requires a dictionary of movies.
+Movie name as key. Movie attributes as the values.
+{
+  <movie_name>: {
+    "categories": [],
+    "cast": [],
+    "genre": []
+  }
+}
