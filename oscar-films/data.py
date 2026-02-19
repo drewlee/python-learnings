@@ -560,81 +560,111 @@ films = {
         "cast_and_crew": [
             "Andrew Jarecki",
             "Charlotte Kaufman",
+            "Page Marsella",
         ],
-        "genre": ["documentary"],
+        "genre": [
+            "documentary",
+        ],
     },
     "Come See Me in the Good Light": {
         "category": ["Best documentary feature film"],
         "cast_and_crew": [
             "Ryan White",
-            "Pattie Gonia",
-            "Andrea Gibson",
         ],
-        "genre": ["documentary"],
+        "genre": [
+            "biography",
+            "documentary",
+            "drama",
+        ],
     },
     "Cutting Through Rocks": {
         "category": ["Best documentary feature film"],
         "cast_and_crew": [
-            "Sara Khaki",
             "Mohammadreza Eyni",
+            "Sara Khaki",
+            "Sarah Shahverdi",
         ],
-        "genre": ["documentary", "international"],
+        "genre": [
+            "biography",
+            "documentary",
+            "international",
+        ],
     },
     "Mr. Nobody Against Putin": {
         "category": ["Best documentary feature film"],
         "cast_and_crew": [
-            "David Borenstein",
             "Pavel Talankin",
+            "David Borenstein",
         ],
-        "genre": ["documentary", "international"],
+        "genre": [
+            "documentary",
+            "international",
+        ],
     },
     "The Perfect Neighbor": {
         "category": ["Best documentary feature film"],
         "cast_and_crew": [
             "Geeta Gandbhir",
-            "Alisa Payne",
         ],
-        "genre": ["documentary"],
+        "genre": [
+            "documentary",
+            "drama",
+            "thriller",
+        ],
     },
     "All the Empty Rooms": {
         "category": ["Best documentary short film"],
         "cast_and_crew": [
-            "Fara Dabhoiwala",
-            "Bree Cook",
+            "Joshua Seftel",
         ],
-        "genre": ["documentary", "short"],
+        "genre": [
+            "documentary",
+            "short",
+        ],
     },
     "Armed Only with a Camera: The Life and Death of Brent Renaud": {
         "category": ["Best documentary short film"],
         "cast_and_crew": [
-            "Craig Renaud",
             "Brent Renaud",
+            "Craig Renaud",
         ],
-        "genre": ["documentary", "short"],
+        "genre": [
+            "documentary",
+            "short",
+        ],
     },
     "Children No More: 'Were And Are Gone'": {
         "category": ["Best documentary short film"],
         "cast_and_crew": [
-            "Tetyana Mishchenko",
-            "Sarah McCarthy",
+            "Hilla Medalia",
         ],
-        "genre": ["documentary", "short", "international"],
+        "genre": [
+            "documentary",
+            "international",
+            "short",
+        ],
     },
     "The Devil is Busy": {
         "category": ["Best documentary short film"],
         "cast_and_crew": [
-            "Pamela Yates",
-            "Paco de Onis",
+            "Geeta Gandbhir",
+            "Christalyn Hampton",
+            "Houston Diaz",
         ],
-        "genre": ["documentary", "short", "international"],
+        "genre": [
+            "documentary",
+            "short",
+        ],
     },
     "Perfectly a Strangeness": {
         "category": ["Best documentary short film"],
         "cast_and_crew": [
             "Alison McAlpine",
-            "Sofian El Fani",
         ],
-        "genre": ["documentary", "short"],
+        "genre": [
+            "documentary",
+            "short",
+        ],
     },
     "Sirât": {
         "category": [
@@ -643,54 +673,103 @@ films = {
         ],
         "cast_and_crew": [
             "Oliver Laxe",
-            "Sergi Lopez",
-            "Bruno Nunez",
+            "Santiago Fillol",
+            "Sergi López",
+            "Stefania Gadda",
+            "Bruno Núñez Arjona",
         ],
-        "genre": ["drama", "international", "thriller"],
+        "genre": [
+            "action",
+            "adventure",
+            "drama",
+            "international",
+            "music",
+            "mystery",
+            "thriller",
+        ],
     },
     "The Voice of Hinad Rajab": {
         "category": ["Best international feature film"],
         "cast_and_crew": [
             "Kaouther Ben Hania",
-            "Nadine Labaki",
+            "Saja Kilani",
+            "Motaz Malhees",
+            "Clara Khoury",
         ],
-        "genre": ["drama", "international"],
+        "genre": [
+            "drama",
+            "international",
+        ],
     },
     "Arco": {
         "category": ["Best animated feature film"],
         "cast_and_crew": [
             "Ugo Bienvenu",
-            "Natalie Portman",
+            "Félix de Givry",
+            "Margot Ringard Oldra",
+            "Oscar Tresanini",
+            "Nathanaël Perrot",
         ],
-        "genre": ["animation", "adventure", "sci-fi"],
+        "genre": [
+            "animation",
+            "adventure",
+            "fantasy",
+            "sci-fi",
+        ],
     },
     "Elio": {
         "category": ["Best animated feature film"],
         "cast_and_crew": [
-            "Domee Shi",
+            "Adrian Molina",
             "Madeline Sharafian",
+            "Domee Shi",
+            "Julia Cho",
+            "Mark Hammer",
+            "Mike Jones",
+            "Zoe Saldaña",
             "Yonas Kibreab",
+            "Remy Edgerly",
         ],
-        "genre": ["animation", "adventure", "comedy"],
+        "genre": [
+            "animation",
+            "adventure",
+            "comedy",
+            "drama",
+            "fantasy",
+            "sci-fi",
+        ],
     },
     "Little Amélie or the Character of Rain": {
         "category": ["Best animated feature film"],
         "cast_and_crew": [
-            "Mailys Vallade",
-            "Liane-Cho Han",
-            "Lois Charpentier",
+            "Maïlys Vallade",
+            "Liane-Cho Han Jin Kuang",
+            "Aude Py",
+            "Amélie Nothomb",
+            "Loïse Charpentier",
+            "Victoria Grobois",
+            "Yumi Fujimori",
         ],
-        "genre": ["animation", "drama", "international"],
+        "genre": [
+            "animation",
+            "international",
+        ],
     },
     "Zootopia 2": {
         "category": ["Best animated feature film"],
         "cast_and_crew": [
             "Jared Bush",
             "Byron Howard",
-            "Ginnifer Goodwin",
             "Jason Bateman",
+            "Ginnifer Goodwin",
+            "Ke Huy Quan",
         ],
-        "genre": ["animation", "adventure", "comedy"],
+        "genre": [
+            "animation",
+            "action",
+            "adventure",
+            "comedy",
+        ],
     },
     "F1": {
         "category": [
@@ -701,11 +780,16 @@ films = {
         ],
         "cast_and_crew": [
             "Joseph Kosinski",
+            "Ehren Kruger",
             "Brad Pitt",
+            "Kerry Condon",
             "Damson Idris",
-            "Claudio Miranda",
         ],
-        "genre": ["action", "drama", "sport"],
+        "genre": [
+            "action",
+            "drama",
+            "sport",
+        ],
     },
     "Avatar: Fire and Ash": {
         "category": [
@@ -714,28 +798,52 @@ films = {
         ],
         "cast_and_crew": [
             "James Cameron",
+            "Rick Jaffa",
+            "Amanda Silver",
+            "Josh Friedman",
+            "Zoe Saldaña",
             "Sam Worthington",
-            "Zoe Saldana",
+            "Sigourney Weaver",
         ],
-        "genre": ["action", "adventure", "sci-fi"],
+        "genre": [
+            "action",
+            "adventure",
+            "fantasy",
+            "sci-fi",
+        ],
     },
-    "Jurassic World Rebirth": {
+    "Jurassic World: Rebirth": {
         "category": ["Best visual effects"],
         "cast_and_crew": [
             "Gareth Edwards",
+            "David Koepp",
+            "Michael Crichton",
             "Scarlett Johansson",
+            "Mahershala Ali",
             "Jonathan Bailey",
         ],
-        "genre": ["action", "adventure", "sci-fi"],
+        "genre": [
+            "action",
+            "adventure",
+            "sci-fi",
+            "thriller",
+        ],
     },
     "The Lost Bus": {
         "category": ["Best visual effects"],
         "cast_and_crew": [
             "Paul Greengrass",
+            "Brad Ingelsby",
+            "Lizzie Johnson",
             "Matthew McConaughey",
             "America Ferrera",
+            "Yul Vazquez",
         ],
-        "genre": ["drama", "thriller"],
+        "genre": [
+            "biography",
+            "drama",
+            "thriller",
+        ],
     },
     "If I Had Legs I'd Kick You": {
         "category": [
@@ -744,20 +852,28 @@ films = {
         "cast_and_crew": [
             "Mary Bronstein",
             "Rose Byrne",
-            "A$AP Rocky",
+            "Delaney Quinn",
             "Conan O'Brien",
         ],
-        "genre": ["comedy", "drama"],
+        "genre": [
+            "drama",
+            "thriller",
+        ],
     },
     "Song Sung Blue": {
         "category": ["Best picture"],
         "cast_and_crew": [
             "Craig Brewer",
-            "Hugh Jackman",
+            "Greg Kohs",
             "Kate Hudson",
+            "Hugh Jackman",
             "Michael Imperioli",
         ],
-        "genre": ["drama", "music"],
+        "genre": [
+            "biography",
+            "drama",
+            "music",
+        ],
     },
 }
 
