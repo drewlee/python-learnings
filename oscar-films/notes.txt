@@ -1,3 +1,4 @@
+----------------
 Award Categories
 ----------------
 01. Best supporting actress
@@ -25,6 +26,7 @@ Award Categories
 23. Best picture
 24. Best costume design
 
+---------------
 Nominated Films
 ---------------
 01. Sentimental Value
@@ -80,12 +82,14 @@ Nominated Films
 51. If I Had Legs I'd Kick You
 52. Song Sung Blue
 
+-----------------------------
 Get movie recommendations by:
 -----------------------------
 1. Award category
 2. Cast and crew
 3. Genre
 
+-----------
 Film Genres
 -----------
 Action
@@ -102,21 +106,23 @@ Sci-Fi
 Short
 Thriller
 
+---------
 Objective
 ---------
 The user wants to watch movies that have been nominated for the 2026 Academy Awards.
 The user wants to get recommendations based on a particular attribute, such as:
-- the category it was nominated for,
-- the film genre,
-- a person who's worked on the film (director, screen writer, composer, actor or actress).
+- The category it was nominated for,
+- The film genre,
+- A person who's worked on the film (director, screen writer, composer, actor or actress).
 
-Data stored as a dictionary of movies.
-- Movie name as key.
+Data stored as a dictionary of movies:
+- Movie name as key,
 - Movie attributes as the value.
+
 {
   <movie_name>: {
-    "categories": [],
-    "cast": [],
-    "genre": []
+    "categories": [...],
+    "cast_and_crew": [...],
+    "genre": [...]
   }
 }

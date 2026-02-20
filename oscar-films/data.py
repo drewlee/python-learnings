@@ -1,4 +1,4 @@
-categories = [
+CATEGORIES = [
     "Best supporting actress",
     "Best makeup and hairstyling",
     "Best original score",
@@ -26,7 +26,29 @@ categories = [
 ]
 
 
-films = {
+GENRES = [
+    "action",
+    "adventure",
+    "animation",
+    "biography",
+    "comedy",
+    "documentary",
+    "drama",
+    "fantasy",
+    "horror",
+    "international",
+    "music",
+    "mystery",
+    "period",
+    "romance",
+    "sci-fi",
+    "short",
+    "sport",
+    "thriller",
+]
+
+
+FILMS = {
     "Sentimental Value": {
         "category": [
             "Best supporting actress",
@@ -876,25 +898,3 @@ films = {
         ],
     },
 }
-
-
-genres = [
-    "action",
-    "adventure",
-    "animation",
-    "biography",
-    "comedy",
-    "documentary",
-    "drama",
-    "fantasy",
-    "horror",
-    "international",
-    "music",
-    "mystery",
-    "period",
-    "romance",
-    "sci-fi",
-    "short",
-    "sport",
-    "thriller",
-]
