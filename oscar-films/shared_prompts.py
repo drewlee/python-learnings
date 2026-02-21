@@ -38,5 +38,8 @@ def prompt_selection_list(options, lead_msg):
 
     option_int = int(option)
     selected = options[option_int - 1]
-    print(f'Selected "{selected}"\n')
+    confirmation = f'Selected "{selected}"'
+
+    print("\n" + confirmation)
+    print("-" * len(confirmation) + "\n")
     return selected

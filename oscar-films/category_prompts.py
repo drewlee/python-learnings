@@ -32,20 +32,10 @@ def prompt_for_category():
             )
         category = prompt_selection_list(categories, selection_msg)
         films = get_films_for_category(category)
-        return films
+        return films, category
 
     print(f'\nNo matches found for "{substring}". Try again?')
     should_re_prompt = prompt_yes_no()
     if should_re_prompt:
         print("\n")
         return prompt_for_category()
-
-
-def prompt_for_category_selection(name, options):
-    options_len = len(options)
-    print("\n" + f'There are {options_len} categories matching "{name}"')
-    for i in range(options_len):
-        print(f"  {i + 1}. {options[i]}")
-
-    msg = "Enter a number corresponding to one of the options:\n"
-    print(msg)
