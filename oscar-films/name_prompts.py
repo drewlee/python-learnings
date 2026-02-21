@@ -15,10 +15,9 @@ def prompt_for_name():
         members = list(films.keys())
         members.sort()
         selection_msg = get_selection_msg("member", "members", len(members), name)
-        selected = prompt_selection_list(members, selection_msg)
-
-        # Recommendations
-        return films[selected], name
+        selected_idx = prompt_selection_list(members, selection_msg)
+        member = members[selected_idx]
+        return films[member], member
 
     print(f'No matches found for "{name}". Try again?')
     should_re_prompt = prompt_yes_no()

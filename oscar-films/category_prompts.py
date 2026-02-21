@@ -30,7 +30,8 @@ def prompt_for_category():
             selection_msg = get_selection_msg(
                 "category", "categories", len(categories), substring
             )
-        category = prompt_selection_list(categories, selection_msg)
+        selected_idx = prompt_selection_list(categories, selection_msg)
+        category = categories[selected_idx]
         films = get_films_for_category(category)
         return films, category
 

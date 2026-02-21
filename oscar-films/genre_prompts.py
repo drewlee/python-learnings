@@ -31,7 +31,8 @@ def prompt_for_genre():
                 "category", "categories", len(genres), substring
             )
         genres = format_genres(genres)
-        genre = prompt_selection_list(genres, selection_msg)
+        selected_idx = prompt_selection_list(genres, selection_msg)
+        genre = genres[selected_idx]
         films = get_films_for_genre(genre.lower())
         return films, genre
 

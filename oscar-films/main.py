@@ -15,11 +15,11 @@ def run():
     selection = prompt_for_selection()
     recs = None
 
-    if selection == 1:
+    if selection == 0:
         recs = prompt_for_category()
-    elif selection == 2:
+    elif selection == 1:
         recs = prompt_for_genre()
-    elif selection == 3:
+    elif selection == 2:
         recs = prompt_for_name()
     else:
         # It shouldn't be possible to get here

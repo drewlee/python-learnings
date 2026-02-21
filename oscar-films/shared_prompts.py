@@ -28,7 +28,7 @@ def prompt_selection_list(options, lead_msg):
         out += f"  {i + 1}. {options[i]}\n"
     print(out)
 
-    prompt = "Enter a number corresponding to one of the options:\n"
+    prompt = "Enter a number corresponding to an option:\n"
     option = input(prompt).strip()
     is_valid = is_valid_num_option(option, maxAllowed=options_len)
 
@@ -37,9 +37,10 @@ def prompt_selection_list(options, lead_msg):
         return prompt_selection_list(options, lead_msg)
 
     option_int = int(option)
-    selected = options[option_int - 1]
+    index = option_int - 1
+    selected = options[index]
     confirmation = f'Selected "{selected}"'
 
     print("\n" + confirmation)
     print("-" * len(confirmation) + "\n")
-    return selected
+    return index
