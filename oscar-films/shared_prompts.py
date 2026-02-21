@@ -1,10 +1,5 @@
 from validators import is_valid_yes_no_option, is_valid_num_option
-import shutil
-
-
-def print_divider():
-    width = shutil.get_terminal_size(fallback=(80, 24)).columns
-    print("-" * width + "\n")
+from utils import print_divider
 
 
 def get_selection_msg(s_noun, pl_noun, count, token):

@@ -28,8 +28,9 @@ def get_films_for_entity(entity, key):
     matches = []
     for film in FILMS:
         if entity in FILMS[film][key]:
-            matches.append(film)
-    matches.sort()
+            match_dict = {"name": film, "category": FILMS[film]["category"]}
+            matches.append(match_dict)
+    matches.sort(key=lambda x: x["name"])
     return matches
 
 

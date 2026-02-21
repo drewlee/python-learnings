@@ -50,6 +50,7 @@ GENRES = [
 
 FILMS = {
     "Sentimental Value": {
+        "id": "tt27714581",
         "category": [
             "Best supporting actress",
             "Best original screenplay",
@@ -72,6 +73,7 @@ FILMS = {
         "genre": ["drama", "international"],
     },
     "Weapons": {
+        "id": "tt26581740",
         "category": [
             "Best supporting actress",
         ],
@@ -85,6 +87,7 @@ FILMS = {
         "genre": ["horror", "mystery"],
     },
     "Sinners": {
+        "id": "tt31193180",
         "category": [
             "Best supporting actress",
             "Best original score",
@@ -123,6 +126,7 @@ FILMS = {
         ],
     },
     "One Battle After Another": {
+        "id": "tt30144839",
         "category": [
             "Best supporting actress",
             "Best original score",
@@ -154,6 +158,7 @@ FILMS = {
         ],
     },
     "Frankenstein": {
+        "id": "tt1312221",
         "category": [
             "Best makeup and hairstyling",
             "Best original score",
@@ -182,6 +187,7 @@ FILMS = {
         ],
     },
     "Kokuho": {
+        "id": "tt35231039",
         "category": ["Best makeup and hairstyling"],
         "cast_and_crew": [
             "Sang-il Lee",
