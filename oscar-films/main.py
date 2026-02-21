@@ -1,23 +1,30 @@
-from prompts import prompt_for_category, prompt_for_name
+from selection_prompts import prompt_for_selection
+from name_prompts import prompt_for_name
+from category_prompts import prompt_for_category
+
+
+def print_film_recs(recs):
+    print(f"Film recommendations based on {None}:\n")
+    print(recs)
 
 
 def run():
-    category = prompt_for_category()
-    recommendations = None
+    selection = prompt_for_selection()
+    recs = None
 
-    if category == 1:
+    if selection == 1:
+        recs = prompt_for_category()
+    elif selection == 2:
         pass
-    elif category == 2:
-        pass
-    elif category == 3:
-        recommendations = prompt_for_name()
+    elif selection == 3:
+        recs = prompt_for_name()
     else:
-        pass
+        # It shouldn't be possible to get here
+        raise Exception("Invalid selection value")
 
-    if recommendations:
-        # Print the recommendations
-        # f"Film recommendations based on {}"
-        pass
+    if recs:
+        # TODO: pretty print the recommend films
+        print_film_recs(recs)
 
 
 run()

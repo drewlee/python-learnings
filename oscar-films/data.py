@@ -148,9 +148,9 @@ FILMS = {
             "Teyana Taylor",
         ],
         "genre": [
-          "action",
-          "drama",
-          "thriller",
+            "action",
+            "drama",
+            "thriller",
         ],
     },
     "Frankenstein": {
@@ -302,11 +302,7 @@ FILMS = {
             "Omar Sameer",
             "Rona Toledano",
         ],
-        "genre": [
-            "drama",
-            "international",
-            "short"
-        ],
+        "genre": ["drama", "international", "short"],
     },
     "Jane Austen's Period Drama": {
         "category": ["Best live action short film"],
@@ -317,11 +313,7 @@ FILMS = {
             "Samantha Smart",
             "Nicole Alyse Nelson",
         ],
-        "genre": [
-            "comedy",
-            "period",
-            "short"
-        ],
+        "genre": ["comedy", "period", "short"],
     },
     "A Friend of Dorothy": {
         "category": ["Best live action short film"],
@@ -380,8 +372,7 @@ FILMS = {
             "Richard Linklater",
             "Robert Kaplow",
             "Lorenz Hart",
-            "Elizabeth Weiland"
-            "Ethan Hawke",
+            "Elizabeth Weiland" "Ethan Hawke",
             "Bobby Cannavale",
             "Andrew Scott",
         ],
