@@ -27,9 +27,7 @@ def prompt_for_genre():
 
     if genres:
         if not selection_msg:
-            selection_msg = get_selection_msg(
-                "category", "categories", len(genres), substring
-            )
+            selection_msg = get_selection_msg("genre", "genres", len(genres), substring)
         genres = format_genres(genres)
         selected_idx = prompt_selection_list(genres, selection_msg)
         genre = genres[selected_idx]
