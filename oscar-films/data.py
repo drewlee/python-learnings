@@ -203,6 +203,7 @@ FILMS = {
         ],
     },
     "The Smashing Machine": {
+        "id": "tt11214558",
         "category": ["Best makeup and hairstyling"],
         "cast_and_crew": [
             "Benny Safdie",
@@ -218,6 +219,7 @@ FILMS = {
         ],
     },
     "The Ugly Stepsister": {
+        "id": "tt29344903",
         "category": ["Best makeup and hairstyling"],
         "cast_and_crew": [
             "Emilie Blichfeldt",
@@ -233,6 +235,7 @@ FILMS = {
         ],
     },
     "Bugonia": {
+        "id": "tt12300742",
         "category": [
             "Best original score",
             "Best adapted screenplay",
@@ -255,6 +258,7 @@ FILMS = {
         ],
     },
     "Hamnet": {
+        "id": "tt14905854",
         "category": [
             "Best original score",
             "Best adapted screenplay",
@@ -282,6 +286,7 @@ FILMS = {
         ],
     },
     "Train Dreams": {
+        "id": "tt29768334",
         "category": [
             "Best adapted screenplay",
             "Best original song",
@@ -302,6 +307,7 @@ FILMS = {
         ],
     },
     "Butcher's Stain": {
+        "id": "tt39232815",
         "category": ["Best live action short film"],
         "cast_and_crew": [
             "Meyer Levinson-Blount",
@@ -311,6 +317,7 @@ FILMS = {
         "genre": ["drama", "international", "short"],
     },
     "Jane Austen's Period Drama": {
+        "id": "tt31171760",
         "category": ["Best live action short film"],
         "cast_and_crew": [
             "Julia Aks",
@@ -322,6 +329,7 @@ FILMS = {
         "genre": ["comedy", "period", "short"],
     },
     "A Friend of Dorothy": {
+        "id": "tt35489516",
         "category": ["Best live action short film"],
         "cast_and_crew": [
             "Lee Knight",
@@ -337,6 +345,7 @@ FILMS = {
         ],
     },
     "The Singers": {
+        "id": "tt33508491",
         "category": ["Best live action short film"],
         "cast_and_crew": [
             "Sam A. Davis",
@@ -353,6 +362,7 @@ FILMS = {
         ],
     },
     "Two People Exchanging Saliva": {
+        "id": "tt33365259",
         "category": ["Best live action short film"],
         "cast_and_crew": [
             "Natalie Musteata",
@@ -370,6 +380,7 @@ FILMS = {
         ],
     },
     "Blue Moon": {
+        "id": "tt32536315",
         "category": [
             "Best actor",
             "Best original screenplay",
@@ -390,6 +401,7 @@ FILMS = {
         ],
     },
     "It Was Just an Accident": {
+        "id": "tt36491653",
         "category": [
             "Best original screenplay",
             "Best international feature film",
@@ -410,6 +422,7 @@ FILMS = {
         ],
     },
     "Marty Supreme": {
+        "id": "tt32916440",
         "category": [
             "Best original screenplay",
             "Best casting",
@@ -436,6 +449,7 @@ FILMS = {
         ],
     },
     "Papillon (Butterfly)": {
+        "id": "tt30970587",
         "category": ["Best animated short film"],
         "cast_and_crew": [
             "Florence Miailhe",
@@ -453,6 +467,7 @@ FILMS = {
         ],
     },
     "Forevergreen": {
+        "id": "tt0106001",
         "category": ["Best animated short film"],
         "cast_and_crew": [
             "Nathan Engelhardt",
@@ -464,6 +479,7 @@ FILMS = {
         ],
     },
     "The Girl Who Cried Pearls": {
+        "id": "tt36956820",
         "category": ["Best animated short film"],
         "cast_and_crew": [
             "Chris Lavis",
@@ -479,6 +495,7 @@ FILMS = {
         ],
     },
     "Retirement Plan": {
+        "id": "tt33457262",
         "category": ["Best animated short film"],
         "cast_and_crew": [
             "John Kelly",
@@ -492,6 +509,7 @@ FILMS = {
         ],
     },
     "The Three Sisters": {
+        "id": "tt0061092",
         "category": ["Best animated short film"],
         "cast_and_crew": [
             "Konstantin Bronzit",
@@ -504,6 +522,7 @@ FILMS = {
         ],
     },
     "The Secret Agent": {
+        "id": "tt27847051",
         "category": [
             "Best casting",
             "Best international feature film",
@@ -526,6 +545,7 @@ FILMS = {
         ],
     },
     "Diane Warren: Relentless": {
+        "id": "tt14588692",
         "category": ["Best original song"],
         "cast_and_crew": [
             "Bess Kargman",
@@ -537,6 +557,7 @@ FILMS = {
         ],
     },
     "KPop Demon Hunters": {
+        "id": "tt14205554",
         "category": [
             "Best original song",
             "Best animated feature film",
@@ -561,6 +582,7 @@ FILMS = {
         ],
     },
     "Viva Verdi!": {
+        "id": "tt3595454",
         "category": ["Best original song"],
         "cast_and_crew": [
             "Yvonne Russo",
@@ -575,6 +597,7 @@ FILMS = {
         ],
     },
     "The Alabama Solution": {
+        "id": "tt35307139",
         "category": ["Best documentary feature film"],
         "cast_and_crew": [
             "Andrew Jarecki",
@@ -586,6 +609,7 @@ FILMS = {
         ],
     },
     "Come See Me in the Good Light": {
+        "id": "tt34966013",
         "category": ["Best documentary feature film"],
         "cast_and_crew": [
             "Ryan White",
@@ -597,6 +621,7 @@ FILMS = {
         ],
     },
     "Cutting Through Rocks": {
+        "id": "tt10196414",
         "category": ["Best documentary feature film"],
         "cast_and_crew": [
             "Mohammadreza Eyni",
@@ -610,6 +635,7 @@ FILMS = {
         ],
     },
     "Mr. Nobody Against Putin": {
+        "id": "tt34965515",
         "category": ["Best documentary feature film"],
         "cast_and_crew": [
             "Pavel Talankin",
@@ -621,6 +647,7 @@ FILMS = {
         ],
     },
     "The Perfect Neighbor": {
+        "id": "tt34962891",
         "category": ["Best documentary feature film"],
         "cast_and_crew": [
             "Geeta Gandbhir",
@@ -632,6 +659,7 @@ FILMS = {
         ],
     },
     "All the Empty Rooms": {
+        "id": "tt37798645",
         "category": ["Best documentary short film"],
         "cast_and_crew": [
             "Joshua Seftel",
@@ -642,6 +670,7 @@ FILMS = {
         ],
     },
     "Armed Only with a Camera: The Life and Death of Brent Renaud": {
+        "id": "tt35515733",
         "category": ["Best documentary short film"],
         "cast_and_crew": [
             "Brent Renaud",
@@ -652,7 +681,8 @@ FILMS = {
             "short",
         ],
     },
-    "Children No More: 'Were And Are Gone'": {
+    "Children No More: Were and Are Gone": {
+        "id": "tt38691874",
         "category": ["Best documentary short film"],
         "cast_and_crew": [
             "Hilla Medalia",
@@ -664,6 +694,7 @@ FILMS = {
         ],
     },
     "The Devil is Busy": {
+        "id": "tt34205548",
         "category": ["Best documentary short film"],
         "cast_and_crew": [
             "Geeta Gandbhir",
@@ -676,6 +707,7 @@ FILMS = {
         ],
     },
     "Perfectly a Strangeness": {
+        "id": "tt32205767",
         "category": ["Best documentary short film"],
         "cast_and_crew": [
             "Alison McAlpine",
@@ -686,6 +718,7 @@ FILMS = {
         ],
     },
     "Sirât": {
+        "id": "tt32298285",
         "category": [
             "Best international feature film",
             "Best sound",
@@ -708,6 +741,7 @@ FILMS = {
         ],
     },
     "The Voice of Hinad Rajab": {
+        "id": "tt36943034",
         "category": ["Best international feature film"],
         "cast_and_crew": [
             "Kaouther Ben Hania",
@@ -721,6 +755,7 @@ FILMS = {
         ],
     },
     "Arco": {
+        "id": "tt14883538",
         "category": ["Best animated feature film"],
         "cast_and_crew": [
             "Ugo Bienvenu",
@@ -737,6 +772,7 @@ FILMS = {
         ],
     },
     "Elio": {
+        "id": "tt4900148",
         "category": ["Best animated feature film"],
         "cast_and_crew": [
             "Adrian Molina",
@@ -759,6 +795,7 @@ FILMS = {
         ],
     },
     "Little Amélie or the Character of Rain": {
+        "id": "tt29313285",
         "category": ["Best animated feature film"],
         "cast_and_crew": [
             "Maïlys Vallade",
@@ -775,6 +812,7 @@ FILMS = {
         ],
     },
     "Zootopia 2": {
+        "id": "tt26443597",
         "category": ["Best animated feature film"],
         "cast_and_crew": [
             "Jared Bush",
@@ -791,6 +829,7 @@ FILMS = {
         ],
     },
     "F1": {
+        "id": "tt16311594",
         "category": [
             "Best film editing",
             "Best sound",
@@ -811,6 +850,7 @@ FILMS = {
         ],
     },
     "Avatar: Fire and Ash": {
+        "id": "tt1757678",
         "category": [
             "Best visual effects",
             "Best costume design",
@@ -832,6 +872,7 @@ FILMS = {
         ],
     },
     "Jurassic World: Rebirth": {
+        "id": "tt31036941",
         "category": ["Best visual effects"],
         "cast_and_crew": [
             "Gareth Edwards",
@@ -849,6 +890,7 @@ FILMS = {
         ],
     },
     "The Lost Bus": {
+        "id": "tt21103218",
         "category": ["Best visual effects"],
         "cast_and_crew": [
             "Paul Greengrass",
@@ -865,6 +907,7 @@ FILMS = {
         ],
     },
     "If I Had Legs I'd Kick You": {
+        "id": "tt18382850",
         "category": [
             "Best actress",
         ],
@@ -880,6 +923,7 @@ FILMS = {
         ],
     },
     "Song Sung Blue": {
+        "id": "tt30343021",
         "category": ["Best picture"],
         "cast_and_crew": [
             "Craig Brewer",

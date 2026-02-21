@@ -1,4 +1,3 @@
-import shutil
 from selection_prompts import prompt_for_selection
 from category_prompts import prompt_for_category
 from genre_prompts import prompt_for_genre
