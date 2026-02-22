@@ -49,8 +49,9 @@ def get_films_for_name(name):
     for film in FILMS:
         members = set(
             FILMS[film]["directors"]
-            + FILMS[film]["cast_and_crew"]
             + FILMS[film]["writers"]
+            + FILMS[film]["starring"]
+            + FILMS[film]["cast_and_crew"]
         )
 
         for member in members:

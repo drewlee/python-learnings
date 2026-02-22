@@ -29,6 +29,13 @@ def print_film_recs(films, criteria):
                 out += f"    - {item}\n"
             out += "\n"
 
+        # Starring
+        if film["starring"]:
+            out += "    Starring:\n"
+            for item in film["starring"]:
+                out += f"    - {item}\n"
+            out += "\n"
+
         # Nominations
         out += "    Nominated for:\n"
         for item in film["category"]:
