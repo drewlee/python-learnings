@@ -51,6 +51,7 @@ GENRES = [
 FILMS = {
     "Sentimental Value": {
         "id": "tt27714581",
+        "release_year": "2025",
         "category": [
             "Best supporting actress",
             "Best original screenplay",
@@ -74,6 +75,7 @@ FILMS = {
     },
     "Weapons": {
         "id": "tt26581740",
+        "release_year": "2025",
         "category": [
             "Best supporting actress",
         ],
@@ -88,6 +90,7 @@ FILMS = {
     },
     "Sinners": {
         "id": "tt31193180",
+        "release_year": "2025",
         "category": [
             "Best supporting actress",
             "Best original score",
@@ -127,6 +130,7 @@ FILMS = {
     },
     "One Battle After Another": {
         "id": "tt30144839",
+        "release_year": "2025",
         "category": [
             "Best supporting actress",
             "Best original score",
@@ -159,6 +163,7 @@ FILMS = {
     },
     "Frankenstein": {
         "id": "tt1312221",
+        "release_year": "2025",
         "category": [
             "Best makeup and hairstyling",
             "Best original score",
@@ -188,6 +193,7 @@ FILMS = {
     },
     "Kokuho": {
         "id": "tt35231039",
+        "release_year": "2025",
         "category": ["Best makeup and hairstyling"],
         "cast_and_crew": [
             "Sang-il Lee",
@@ -204,6 +210,7 @@ FILMS = {
     },
     "The Smashing Machine": {
         "id": "tt11214558",
+        "release_year": "2025",
         "category": ["Best makeup and hairstyling"],
         "cast_and_crew": [
             "Benny Safdie",
@@ -220,6 +227,7 @@ FILMS = {
     },
     "The Ugly Stepsister": {
         "id": "tt29344903",
+        "release_year": "2025",
         "category": ["Best makeup and hairstyling"],
         "cast_and_crew": [
             "Emilie Blichfeldt",
@@ -236,6 +244,7 @@ FILMS = {
     },
     "Bugonia": {
         "id": "tt12300742",
+        "release_year": "2025",
         "category": [
             "Best original score",
             "Best adapted screenplay",
@@ -259,6 +268,7 @@ FILMS = {
     },
     "Hamnet": {
         "id": "tt14905854",
+        "release_year": "2025",
         "category": [
             "Best original score",
             "Best adapted screenplay",
@@ -287,6 +297,7 @@ FILMS = {
     },
     "Train Dreams": {
         "id": "tt29768334",
+        "release_year": "2025",
         "category": [
             "Best adapted screenplay",
             "Best original song",
@@ -308,6 +319,7 @@ FILMS = {
     },
     "Butcher's Stain": {
         "id": "tt39232815",
+        "release_year": "2025",
         "category": ["Best live action short film"],
         "cast_and_crew": [
             "Meyer Levinson-Blount",
@@ -318,6 +330,7 @@ FILMS = {
     },
     "Jane Austen's Period Drama": {
         "id": "tt31171760",
+        "release_year": "2024",
         "category": ["Best live action short film"],
         "cast_and_crew": [
             "Julia Aks",
@@ -330,6 +343,7 @@ FILMS = {
     },
     "A Friend of Dorothy": {
         "id": "tt35489516",
+        "release_year": "2025",
         "category": ["Best live action short film"],
         "cast_and_crew": [
             "Lee Knight",
@@ -346,6 +360,7 @@ FILMS = {
     },
     "The Singers": {
         "id": "tt33508491",
+        "release_year": "2025",
         "category": ["Best live action short film"],
         "cast_and_crew": [
             "Sam A. Davis",
@@ -363,6 +378,7 @@ FILMS = {
     },
     "Two People Exchanging Saliva": {
         "id": "tt33365259",
+        "release_year": "2024",
         "category": ["Best live action short film"],
         "cast_and_crew": [
             "Natalie Musteata",
@@ -381,6 +397,7 @@ FILMS = {
     },
     "Blue Moon": {
         "id": "tt32536315",
+        "release_year": "2025",
         "category": [
             "Best actor",
             "Best original screenplay",
@@ -402,6 +419,7 @@ FILMS = {
     },
     "It Was Just an Accident": {
         "id": "tt36491653",
+        "release_year": "2025",
         "category": [
             "Best original screenplay",
             "Best international feature film",
@@ -423,6 +441,7 @@ FILMS = {
     },
     "Marty Supreme": {
         "id": "tt32916440",
+        "release_year": "2025",
         "category": [
             "Best original screenplay",
             "Best casting",
@@ -450,6 +469,7 @@ FILMS = {
     },
     "Papillon (Butterfly)": {
         "id": "tt30970587",
+        "release_year": "2024",
         "category": ["Best animated short film"],
         "cast_and_crew": [
             "Florence Miailhe",
@@ -468,6 +488,7 @@ FILMS = {
     },
     "Forevergreen": {
         "id": "tt0106001",
+        "release_year": "1989",
         "category": ["Best animated short film"],
         "cast_and_crew": [
             "Nathan Engelhardt",
@@ -480,6 +501,7 @@ FILMS = {
     },
     "The Girl Who Cried Pearls": {
         "id": "tt36956820",
+        "release_year": "2025",
         "category": ["Best animated short film"],
         "cast_and_crew": [
             "Chris Lavis",
@@ -495,7 +517,8 @@ FILMS = {
         ],
     },
     "Retirement Plan": {
-        "id": "tt33457262",
+        "id": "tt33019507",
+        "release_year": "2024",
         "category": ["Best animated short film"],
         "cast_and_crew": [
             "John Kelly",
@@ -509,7 +532,8 @@ FILMS = {
         ],
     },
     "The Three Sisters": {
-        "id": "tt0061092",
+        "id": "tt35676079",
+        "release_year": "2024",
         "category": ["Best animated short film"],
         "cast_and_crew": [
             "Konstantin Bronzit",
@@ -523,6 +547,7 @@ FILMS = {
     },
     "The Secret Agent": {
         "id": "tt27847051",
+        "release_year": "2025",
         "category": [
             "Best casting",
             "Best international feature film",
@@ -546,6 +571,7 @@ FILMS = {
     },
     "Diane Warren: Relentless": {
         "id": "tt14588692",
+        "release_year": "2024",
         "category": ["Best original song"],
         "cast_and_crew": [
             "Bess Kargman",
@@ -558,6 +584,7 @@ FILMS = {
     },
     "KPop Demon Hunters": {
         "id": "tt14205554",
+        "release_year": "2025",
         "category": [
             "Best original song",
             "Best animated feature film",
@@ -583,6 +610,7 @@ FILMS = {
     },
     "Viva Verdi!": {
         "id": "tt3595454",
+        "release_year": "2024",
         "category": ["Best original song"],
         "cast_and_crew": [
             "Yvonne Russo",
@@ -598,6 +626,7 @@ FILMS = {
     },
     "The Alabama Solution": {
         "id": "tt35307139",
+        "release_year": "2025",
         "category": ["Best documentary feature film"],
         "cast_and_crew": [
             "Andrew Jarecki",
@@ -610,6 +639,7 @@ FILMS = {
     },
     "Come See Me in the Good Light": {
         "id": "tt34966013",
+        "release_year": "2025",
         "category": ["Best documentary feature film"],
         "cast_and_crew": [
             "Ryan White",
@@ -622,6 +652,7 @@ FILMS = {
     },
     "Cutting Through Rocks": {
         "id": "tt10196414",
+        "release_year": "2025",
         "category": ["Best documentary feature film"],
         "cast_and_crew": [
             "Mohammadreza Eyni",
@@ -636,6 +667,7 @@ FILMS = {
     },
     "Mr. Nobody Against Putin": {
         "id": "tt34965515",
+        "release_year": "2025",
         "category": ["Best documentary feature film"],
         "cast_and_crew": [
             "Pavel Talankin",
@@ -648,6 +680,7 @@ FILMS = {
     },
     "The Perfect Neighbor": {
         "id": "tt34962891",
+        "release_year": "2025",
         "category": ["Best documentary feature film"],
         "cast_and_crew": [
             "Geeta Gandbhir",
@@ -660,6 +693,7 @@ FILMS = {
     },
     "All the Empty Rooms": {
         "id": "tt37798645",
+        "release_year": "2025",
         "category": ["Best documentary short film"],
         "cast_and_crew": [
             "Joshua Seftel",
@@ -671,6 +705,7 @@ FILMS = {
     },
     "Armed Only with a Camera: The Life and Death of Brent Renaud": {
         "id": "tt35515733",
+        "release_year": "2025",
         "category": ["Best documentary short film"],
         "cast_and_crew": [
             "Brent Renaud",
@@ -683,6 +718,7 @@ FILMS = {
     },
     "Children No More: Were and Are Gone": {
         "id": "tt38691874",
+        "release_year": "2025",
         "category": ["Best documentary short film"],
         "cast_and_crew": [
             "Hilla Medalia",
@@ -695,6 +731,7 @@ FILMS = {
     },
     "The Devil is Busy": {
         "id": "tt34205548",
+        "release_year": "2024",
         "category": ["Best documentary short film"],
         "cast_and_crew": [
             "Geeta Gandbhir",
@@ -708,6 +745,7 @@ FILMS = {
     },
     "Perfectly a Strangeness": {
         "id": "tt32205767",
+        "release_year": "2024",
         "category": ["Best documentary short film"],
         "cast_and_crew": [
             "Alison McAlpine",
@@ -719,6 +757,7 @@ FILMS = {
     },
     "Sirât": {
         "id": "tt32298285",
+        "release_year": "2025",
         "category": [
             "Best international feature film",
             "Best sound",
@@ -742,6 +781,7 @@ FILMS = {
     },
     "The Voice of Hinad Rajab": {
         "id": "tt36943034",
+        "release_year": "2025",
         "category": ["Best international feature film"],
         "cast_and_crew": [
             "Kaouther Ben Hania",
@@ -756,6 +796,7 @@ FILMS = {
     },
     "Arco": {
         "id": "tt14883538",
+        "release_year": "2025",
         "category": ["Best animated feature film"],
         "cast_and_crew": [
             "Ugo Bienvenu",
@@ -773,6 +814,7 @@ FILMS = {
     },
     "Elio": {
         "id": "tt4900148",
+        "release_year": "2025",
         "category": ["Best animated feature film"],
         "cast_and_crew": [
             "Adrian Molina",
@@ -796,6 +838,7 @@ FILMS = {
     },
     "Little Amélie or the Character of Rain": {
         "id": "tt29313285",
+        "release_year": "2025",
         "category": ["Best animated feature film"],
         "cast_and_crew": [
             "Maïlys Vallade",
@@ -813,6 +856,7 @@ FILMS = {
     },
     "Zootopia 2": {
         "id": "tt26443597",
+        "release_year": "2025",
         "category": ["Best animated feature film"],
         "cast_and_crew": [
             "Jared Bush",
@@ -830,6 +874,7 @@ FILMS = {
     },
     "F1": {
         "id": "tt16311594",
+        "release_year": "2025",
         "category": [
             "Best film editing",
             "Best sound",
@@ -851,6 +896,7 @@ FILMS = {
     },
     "Avatar: Fire and Ash": {
         "id": "tt1757678",
+        "release_year": "2025",
         "category": [
             "Best visual effects",
             "Best costume design",
@@ -873,6 +919,7 @@ FILMS = {
     },
     "Jurassic World: Rebirth": {
         "id": "tt31036941",
+        "release_year": "2025",
         "category": ["Best visual effects"],
         "cast_and_crew": [
             "Gareth Edwards",
@@ -891,6 +938,7 @@ FILMS = {
     },
     "The Lost Bus": {
         "id": "tt21103218",
+        "release_year": "2025",
         "category": ["Best visual effects"],
         "cast_and_crew": [
             "Paul Greengrass",
@@ -908,6 +956,7 @@ FILMS = {
     },
     "If I Had Legs I'd Kick You": {
         "id": "tt18382850",
+        "release_year": "2025",
         "category": [
             "Best actress",
         ],
@@ -924,6 +973,7 @@ FILMS = {
     },
     "Song Sung Blue": {
         "id": "tt30343021",
+        "release_year": "2025",
         "category": ["Best picture"],
         "cast_and_crew": [
             "Craig Brewer",
