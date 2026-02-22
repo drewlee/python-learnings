@@ -7,16 +7,14 @@ from utils import get_divider_line, print_divider
 
 
 def print_film_recs(films, criteria):
-    print(films)
     out = f'Film recommendations based on "{criteria}":\n'
-    # out += get_divider_line()
     for film in films:
         # Film name
         out += f"\n  {film["name"]}\n\n"
         out += "  " + "-" * len(film["name"]) + "\n\n"
 
         # Release year
-        out += f"    Release year: {film["year"]}\n\n"
+        out += f"    Release year: {film["release_year"]}\n\n"
 
         # Directors
         out += "    Directed by:\n"

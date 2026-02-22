@@ -28,13 +28,8 @@ def get_films_for_entity(entity, key):
     matches = []
     for film in FILMS:
         if entity in FILMS[film][key]:
-            match_dict = {
-                "name": film,
-                "category": FILMS[film]["category"],
-                "year": FILMS[film]["release_year"],
-                "directors": FILMS[film]["directors"],
-                "writers": FILMS[film]["writers"],
-            }
+            match_dict = {"name": film}
+            match_dict.update(FILMS[film])
             matches.append(match_dict)
     matches.sort(key=lambda x: x["name"])
     return matches
@@ -52,7 +47,7 @@ def get_films_for_name(name):
     matches = {}
 
     for film in FILMS:
-        members = (
+        members = set(
             FILMS[film]["directors"]
             + FILMS[film]["cast_and_crew"]
             + FILMS[film]["writers"]
@@ -63,13 +58,8 @@ def get_films_for_name(name):
                 if member not in matches:
                     matches[member] = []
 
-                match_dict = {
-                    "name": film,
-                    "category": FILMS[film]["category"],
-                    "year": FILMS[film]["release_year"],
-                    "directors": FILMS[film]["directors"],
-                    "writers": FILMS[film]["writers"],
-                }
+                match_dict = {"name": film}
+                match_dict.update(FILMS[film])
                 matches[member].append(match_dict)
 
     return matches
