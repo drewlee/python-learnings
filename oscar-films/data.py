@@ -69,6 +69,11 @@ FILMS = {
             "Eskil Vogt",
             "Joachim Trier",
         ],
+        "starring": [
+            "Stellan Skarsgård",
+            "Renate Reinsve",
+            "Inga Ibsdotter Lilleaas",
+        ],
         "cast_and_crew": [
             "Olivier Bugge Coutté",
             "Elle Fanning",
@@ -92,6 +97,11 @@ FILMS = {
         ],
         "writers": [
             "Zach Cregger",
+        ],
+        "starring": [
+            "Scarlett Sher",
+            "Julia Garner",
+            "Josh Brolin",
         ],
         "cast_and_crew": [
             "Julia Garner",
@@ -129,6 +139,11 @@ FILMS = {
         ],
         "writers": [
             "Ryan Coogler",
+        ],
+        "starring": [
+            "Miles Caton",
+            "Andrene Ward-Hammond",
+            "Saul Williams",
         ],
         "cast_and_crew": [
             "Michael P. Shawver",
@@ -172,6 +187,11 @@ FILMS = {
         "writers": [
             "Paul Thomas Anderson",
         ],
+        "starring": [
+            "Leonardo DiCaprio",
+            "Teyana Taylor",
+            "Wood Harris",
+        ],
         "cast_and_crew": [
             "Cassandra Kulukundis",
             "Andy Jurgensen",
@@ -208,8 +228,12 @@ FILMS = {
             "Guillermo del Toro",
             "Mary Shelley",
         ],
+        "starring": [
+            "Oscar Isaac",
+            "Mia Goth",
+            "Jacob Elordi",
+        ],
         "cast_and_crew": [
-            "Guillermo Del Toro",
             "Alexandre Desplat",
             "Kate Hawley",
             "Oscar Isaac",
@@ -237,6 +261,11 @@ FILMS = {
             "Satoko Okudera",
             "Shûichi Yoshida",
         ],
+        "starring": [
+            "Takahiro Miura",
+            "Ai Mikami",
+            "Soya Kurokawa",
+        ],
         "cast_and_crew": [
             "Ryô Yoshizawa",
             "Ryûsei Yokohama",
@@ -258,6 +287,11 @@ FILMS = {
         ],
         "writers": [
             "Benny Safdie",
+        ],
+        "starring": [
+            "Dwayne Johnson",
+            "Emily Blunt",
+            "Ryan Bader",
         ],
         "cast_and_crew": [
             "Dwayne Johnson",
@@ -282,6 +316,11 @@ FILMS = {
         ],
         "writers": [
             "Emilie Blichfeldt",
+        ],
+        "starring": [
+            "Lea Myren",
+            "Ane Dahl Torp",
+            "Thea Sofie Loch Næss",
         ],
         "cast_and_crew": [
             "Lea Myren",
@@ -310,6 +349,11 @@ FILMS = {
         "writers": [
             "Will Tracy",
             "Jang Joon-hwan",
+        ],
+        "starring": [
+            "Jesse Plemons",
+            "Emma Stone",
+            "Alicia Silverstone",
         ],
         "cast_and_crew": [
             "Jerskin Fendrix",
@@ -343,6 +387,11 @@ FILMS = {
             "Chloé Zhao",
             "Maggie O'Farrell",
         ],
+        "starring": [
+            "Jessie Buckley",
+            "Paul Mescal",
+            "Joe Alwyn",
+        ],
         "cast_and_crew": [
             "Max Richter",
             "Nina Gold",
@@ -374,6 +423,11 @@ FILMS = {
             "Greg Kwedar",
             "Denis Johnson",
         ],
+        "starring": [
+            "Joel Edgerton",
+            "Felicity Jones",
+            "Clifton Collins Jr.",
+        ],
         "cast_and_crew": [
             "Joel Edgerton",
             "Clifton Collins Jr.",
@@ -394,6 +448,11 @@ FILMS = {
             "Meyer Levinson-Blount",
         ],
         "writers": [
+            "Meyer Levinson-Blount",
+        ],
+        "starring": [
+            "Rona Toledano",
+            "Omar Sameer",
             "Meyer Levinson-Blount",
         ],
         "cast_and_crew": [
@@ -420,6 +479,11 @@ FILMS = {
             "Julia Aks",
             "Steve Pinder",
         ],
+        "starring": [
+            "Ta'imua",
+            "Julia Aks",
+            "Hugo Armstrong",
+        ],
         "cast_and_crew": [
             "Ta'imua",
             "Samantha Smart",
@@ -441,6 +505,11 @@ FILMS = {
             "Lee Knight",
         ],
         "writers": [
+            "Lee Knight",
+        ],
+        "starring": [
+            "Stephen Fry",
+            "Miriam Margolyes",
             "Lee Knight",
         ],
         "cast_and_crew": [
@@ -466,6 +535,11 @@ FILMS = {
         ],
         "writers": [
             "Ivan Turgenev",
+        ],
+        "starring": [
+            "Michael Young",
+            "Chris Smither",
+            "Will Harrington",
         ],
         "cast_and_crew": [
             "Michael Young",
@@ -493,6 +567,11 @@ FILMS = {
             "Natalie Musteata",
             "Alexandre Singh",
         ],
+        "starring": [
+            "Zar Amir Ebrahimi",
+            "Luàna Bajrami",
+            "Vicky Krieps",
+        ],
         "cast_and_crew": [
             "Zar Amir Ebrahimi",
             "Luàna Bajrami",
@@ -518,6 +597,11 @@ FILMS = {
         ],
         "writers": [
             "Robert Kaplow",
+        ],
+        "starring": [
+            "Ethan Hawke",
+            "Margaret Qualley",
+            "Bobby Cannavale",
         ],
         "cast_and_crew": [
             "Lorenz Hart",
@@ -545,6 +629,11 @@ FILMS = {
         ],
         "writers": [
             "Jafar Panahi",
+        ],
+        "starring": [
+            "Vahid Mobasseri",
+            "Ebrahim Azizi",
+            "Mariam Afshari",
         ],
         "cast_and_crew": [
             "Nader Saeivar",
@@ -581,6 +670,11 @@ FILMS = {
             "Ronald Bronstein",
             "Josh Safdie",
         ],
+        "starring": [
+            "Timothée Chalamet",
+            "Odessa A'zion",
+            "Fran Drescher",
+        ],
         "cast_and_crew": [
             "Jennifer Venditti",
             "Miyako Bellizzi",
@@ -605,6 +699,11 @@ FILMS = {
         "writers": [
             "Marie Desplechin",
             "Florence Miailhe",
+        ],
+        "starring": [
+            "Fayçal Safi",
+            "Jessica Jaouiche",
+            "Alexandre Liebe",
         ],
         "cast_and_crew": [
             "Fayçal Safi",
@@ -633,6 +732,7 @@ FILMS = {
             "Nathan Engelhardt",
             "Jeremy Spears",
         ],
+        "starring": [],
         "cast_and_crew": [],
         "genre": [
             "animation",
@@ -653,6 +753,11 @@ FILMS = {
             "Chris Lavis",
             "Isabelle Mandalian",
             "Maciek Szczerbowski",
+        ],
+        "starring": [
+            "Jeanne Madore",
+            "Gabrielle Dallaire",
+            "Colm Feore",
         ],
         "cast_and_crew": [
             "Colm Feore",
@@ -678,6 +783,9 @@ FILMS = {
             "John Kelly",
             "Tara Lawall",
         ],
+        "starring": [
+            "Domhnall Gleeson",
+        ],
         "cast_and_crew": [
             "Domhnall Gleeson",
         ],
@@ -700,6 +808,7 @@ FILMS = {
         "writers": [
             "Konstantin Bronzit",
         ],
+        "starring": [],
         "cast_and_crew": [],
         "genre": [
             "animation",
@@ -722,6 +831,11 @@ FILMS = {
         ],
         "writers": [
             "Kleber Mendonça Filho",
+        ],
+        "starring": [
+            "Maria Fernanda Cândido",
+            "Gabriel Leone",
+            "Carlos Francisco",
         ],
         "cast_and_crew": [
             "Gabriel Domingues",
@@ -747,6 +861,7 @@ FILMS = {
             "Bess Kargman",
         ],
         "writers": [],
+        "starring": [],
         "cast_and_crew": [
             "Diane Warren",
         ],
@@ -770,6 +885,11 @@ FILMS = {
             "Danya Jimenez",
             "Hannah McMechan",
             "Maggie Kang",
+        ],
+        "starring": [
+            "Arden Cho",
+            "Ahn Hyo-seop",
+            "May Hong",
         ],
         "cast_and_crew": [
             "Arden Cho",
@@ -798,6 +918,11 @@ FILMS = {
             "Christine La Monte",
             "Yvonne Russo",
         ],
+        "starring": [
+            "Claudio Giombi",
+            "Tina Aliprandi",
+            "Chitose Matsumoto",
+        ],
         "cast_and_crew": [
             "Claudio Giombi",
             "Tina Aliprandi",
@@ -824,6 +949,7 @@ FILMS = {
             "Charlotte Kaufman",
             "Page Marsella",
         ],
+        "starring": [],
         "cast_and_crew": [],
         "genre": [
             "documentary",
@@ -839,6 +965,7 @@ FILMS = {
             "Ryan White",
         ],
         "writers": [],
+        "starring": [],
         "cast_and_crew": [],
         "genre": [
             "biography",
@@ -857,6 +984,9 @@ FILMS = {
             "Sara Khaki",
         ],
         "writers": [],
+        "starring": [
+            "Sarah Shahverdi",
+        ],
         "cast_and_crew": [
             "Sarah Shahverdi",
         ],
@@ -879,6 +1009,7 @@ FILMS = {
         "writers": [
             "David Borenstein",
         ],
+        "starring": [],
         "cast_and_crew": [],
         "genre": [
             "documentary",
@@ -895,6 +1026,7 @@ FILMS = {
             "Geeta Gandbhir",
         ],
         "writers": [],
+        "starring": [],
         "cast_and_crew": [],
         "genre": [
             "documentary",
@@ -912,6 +1044,7 @@ FILMS = {
             "Joshua Seftel",
         ],
         "writers": [],
+        "starring": [],
         "cast_and_crew": [],
         "genre": [
             "documentary",
@@ -929,6 +1062,9 @@ FILMS = {
             "Craig Renaud",
         ],
         "writers": [],
+        "starring": [
+            "Jon Alpert",
+        ],
         "cast_and_crew": [],
         "genre": [
             "documentary",
@@ -945,6 +1081,7 @@ FILMS = {
             "Hilla Medalia",
         ],
         "writers": [],
+        "starring": [],
         "cast_and_crew": [],
         "genre": [
             "documentary",
@@ -963,6 +1100,9 @@ FILMS = {
             "Christalyn Hampton",
         ],
         "writers": [],
+        "starring": [
+            "Houston Diaz",
+        ],
         "cast_and_crew": [
             "Houston Diaz",
         ],
@@ -983,6 +1123,7 @@ FILMS = {
         "writers": [
             "Alison McAlpine",
         ],
+        "starring": [],
         "cast_and_crew": [],
         "genre": [
             "documentary",
@@ -1002,6 +1143,11 @@ FILMS = {
         "writers": [
             "Santiago Fillol",
             "Oliver Laxe",
+        ],
+        "starring": [
+            "Sergi López",
+            "Stefania Gadda",
+            "Bruno Núñez Arjona",
         ],
         "cast_and_crew": [
             "Sergi López",
@@ -1030,6 +1176,11 @@ FILMS = {
         "writers": [
             "Kaouther Ben Hania",
         ],
+        "starring": [
+            "Saja Kilani",
+            "Motaz Malhees",
+            "Clara Khoury",
+        ],
         "cast_and_crew": [
             "Saja Kilani",
             "Motaz Malhees",
@@ -1052,6 +1203,11 @@ FILMS = {
         "writers": [
             "Ugo Bienvenu",
             "Félix de Givry",
+        ],
+        "starring": [
+            "Margot Ringard Oldra",
+            "Oscar Tresanini",
+            "Nathanaël Perrot",
         ],
         "cast_and_crew": [
             "Margot Ringard Oldra",
@@ -1080,6 +1236,11 @@ FILMS = {
             "Julia Cho",
             "Mark Hammer",
             "Mike Jones",
+        ],
+        "starring": [
+            "Zoe Saldaña",
+            "Yonas Kibreab",
+            "Remy Edgerly",
         ],
         "cast_and_crew": [
             "Zoe Saldaña",
@@ -1110,6 +1271,11 @@ FILMS = {
             "Aude Py",
             "Amélie Nothomb",
         ],
+        "starring": [
+            "Loïse Charpentier",
+            "Victoria Grobois",
+            "Yumi Fujimori",
+        ],
         "cast_and_crew": [
             "Loïse Charpentier",
             "Victoria Grobois",
@@ -1133,6 +1299,11 @@ FILMS = {
         "writers": [
             "Jared Bush",
             "Byron Howard",
+        ],
+        "starring": [
+            "Jason Bateman",
+            "Ginnifer Goodwin",
+            "Ke Huy Quan",
         ],
         "cast_and_crew": [
             "Jason Bateman",
@@ -1162,6 +1333,11 @@ FILMS = {
             "Joseph Kosinski",
             "Ehren Kruger",
         ],
+        "starring": [
+            "Brad Pitt",
+            "Kerry Condon",
+            "Damson Idris",
+        ],
         "cast_and_crew": [
             "Brad Pitt",
             "Kerry Condon",
@@ -1189,6 +1365,11 @@ FILMS = {
             "Amanda Silver",
             "Josh Friedman",
         ],
+        "starring": [
+            "Zoe Saldaña",
+            "Sam Worthington",
+            "Sigourney Weaver",
+        ],
         "cast_and_crew": [
             "Zoe Saldaña",
             "Sam Worthington",
@@ -1213,6 +1394,11 @@ FILMS = {
         "writers": [
             "David Koepp",
             "Michael Crichton",
+        ],
+        "starring": [
+            "Scarlett Johansson",
+            "Mahershala Ali",
+            "Jonathan Bailey",
         ],
         "cast_and_crew": [
             "Scarlett Johansson",
@@ -1240,6 +1426,11 @@ FILMS = {
             "Paul Greengrass",
             "Lizzie Johnson",
         ],
+        "starring": [
+            "Matthew McConaughey",
+            "America Ferrera",
+            "Yul Vazquez",
+        ],
         "cast_and_crew": [
             "Matthew McConaughey",
             "America Ferrera",
@@ -1263,6 +1454,11 @@ FILMS = {
         "writers": [
             "Mary Bronstein",
         ],
+        "starring": [
+            "Rose Byrne",
+            "Delaney Quinn",
+            "Conan O'Brien",
+        ],
         "cast_and_crew": [
             "Rose Byrne",
             "Delaney Quinn",
@@ -1285,6 +1481,11 @@ FILMS = {
         "writers": [
             "Craig Brewer",
             "Greg Kohs",
+        ],
+        "starring": [
+            "Kate Hudson",
+            "Hugh Jackman",
+            "Michael Imperioli",
         ],
         "cast_and_crew": [
             "Kate Hudson",
