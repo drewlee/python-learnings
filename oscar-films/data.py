@@ -65,6 +65,10 @@ FILMS = {
         "directors": [
             "Joachim Trier",
         ],
+        "writers": [
+            "Eskil Vogt",
+            "Joachim Trier",
+        ],
         "cast_and_crew": [
             "Eskil Vogt",
             "Olivier Bugge Coutté",
@@ -85,6 +89,9 @@ FILMS = {
             "Best supporting actress",
         ],
         "directors": [
+            "Zach Cregger",
+        ],
+        "writers": [
             "Zach Cregger",
         ],
         "cast_and_crew": [
@@ -119,6 +126,9 @@ FILMS = {
             "Best costume design",
         ],
         "directors": [
+            "Ryan Coogler",
+        ],
+        "writers": [
             "Ryan Coogler",
         ],
         "cast_and_crew": [
@@ -160,6 +170,9 @@ FILMS = {
         "directors": [
             "Paul Thomas Anderson",
         ],
+        "writers": [
+            "Paul Thomas Anderson",
+        ],
         "cast_and_crew": [
             "Cassandra Kulukundis",
             "Andy Jurgensen",
@@ -192,6 +205,10 @@ FILMS = {
         "directors": [
             "Guillermo del Toro",
         ],
+        "writers": [
+            "Guillermo del Toro",
+            "Mary Shelley",
+        ],
         "cast_and_crew": [
             "Guillermo Del Toro",
             "Alexandre Desplat",
@@ -217,6 +234,10 @@ FILMS = {
         "directors": [
             "Sang-il Lee",
         ],
+        "writers": [
+            "Satoko Okudera",
+            "Shûichi Yoshida",
+        ],
         "cast_and_crew": [
             "Satoko Okudera",
             "Shûichi Yoshida",
@@ -238,6 +259,9 @@ FILMS = {
         "directors": [
             "Benny Safdie",
         ],
+        "writers": [
+            "Benny Safdie",
+        ],
         "cast_and_crew": [
             "Dwayne Johnson",
             "Emily Blunt",
@@ -257,6 +281,9 @@ FILMS = {
             "Best makeup and hairstyling",
         ],
         "directors": [
+            "Emilie Blichfeldt",
+        ],
+        "writers": [
             "Emilie Blichfeldt",
         ],
         "cast_and_crew": [
@@ -282,6 +309,10 @@ FILMS = {
         ],
         "directors": [
             "Yorgos Lanthimos",
+        ],
+        "writers": [
+            "Will Tracy",
+            "Jang Joon-hwan",
         ],
         "cast_and_crew": [
             "Will Tracy",
@@ -313,6 +344,10 @@ FILMS = {
         "directors": [
             "Chloé Zhao",
         ],
+        "writers": [
+            "Chloé Zhao",
+            "Maggie O'Farrell",
+        ],
         "cast_and_crew": [
             "Maggie O'Farrell",
             "Max Richter",
@@ -340,6 +375,11 @@ FILMS = {
         "directors": [
             "Clint Bentley",
         ],
+        "writers": [
+            "Clint Bentley",
+            "Greg Kwedar",
+            "Denis Johnson",
+        ],
         "cast_and_crew": [
             "Greg Kwedar",
             "Denis Johnson",
@@ -361,6 +401,9 @@ FILMS = {
         "directors": [
             "Meyer Levinson-Blount",
         ],
+        "writers": [
+            "Meyer Levinson-Blount",
+        ],
         "cast_and_crew": [
             "Omar Sameer",
             "Rona Toledano",
@@ -378,6 +421,10 @@ FILMS = {
             "Best live action short film",
         ],
         "directors": [
+            "Julia Aks",
+            "Steve Pinder",
+        ],
+        "writers": [
             "Julia Aks",
             "Steve Pinder",
         ],
@@ -401,6 +448,9 @@ FILMS = {
         "directors": [
             "Lee Knight",
         ],
+        "writers": [
+            "Lee Knight",
+        ],
         "cast_and_crew": [
             "Alistair Nwachukwu",
             "Oscar Lloyd",
@@ -422,6 +472,9 @@ FILMS = {
         "directors": [
             "Sam A. Davis",
         ],
+        "writers": [
+            "Ivan Turgenev",
+        ],
         "cast_and_crew": [
             "Ivan Turgenev",
             "Michael Young",
@@ -442,6 +495,10 @@ FILMS = {
             "Best live action short film",
         ],
         "directors": [
+            "Natalie Musteata",
+            "Alexandre Singh",
+        ],
+        "writers": [
             "Natalie Musteata",
             "Alexandre Singh",
         ],
@@ -468,6 +525,9 @@ FILMS = {
         "directors": [
             "Richard Linklater",
         ],
+        "writers": [
+            "Robert Kaplow",
+        ],
         "cast_and_crew": [
             "Robert Kaplow",
             "Lorenz Hart",
@@ -491,6 +551,9 @@ FILMS = {
             "Best international feature film",
         ],
         "directors": [
+            "Jafar Panahi",
+        ],
+        "writers": [
             "Jafar Panahi",
         ],
         "cast_and_crew": [
@@ -524,6 +587,10 @@ FILMS = {
         "directors": [
             "Josh Safdie",
         ],
+        "writers": [
+            "Ronald Bronstein",
+            "Josh Safdie",
+        ],
         "cast_and_crew": [
             "Ronald Bronstein",
             "Jennifer Venditti",
@@ -544,6 +611,10 @@ FILMS = {
             "Best animated short film",
         ],
         "directors": [
+            "Florence Miailhe",
+        ],
+        "writers": [
+            "Marie Desplechin",
             "Florence Miailhe",
         ],
         "cast_and_crew": [
@@ -570,6 +641,10 @@ FILMS = {
             "Nathan Engelhardt",
             "Jeremy Spears",
         ],
+        "writers": [
+            "Nathan Engelhardt",
+            "Jeremy Spears",
+        ],
         "cast_and_crew": [],
         "genre": [
             "animation",
@@ -584,6 +659,11 @@ FILMS = {
         ],
         "directors": [
             "Chris Lavis",
+            "Maciek Szczerbowski",
+        ],
+        "writers": [
+            "Chris Lavis",
+            "Isabelle Mandalian",
             "Maciek Szczerbowski",
         ],
         "cast_and_crew": [
@@ -606,6 +686,10 @@ FILMS = {
         "directors": [
             "John Kelly",
         ],
+        "writers": [
+            "John Kelly",
+            "Tara Lawall",
+        ],
         "cast_and_crew": [
             "Tara Lawall",
             "Domhnall Gleeson",
@@ -626,6 +710,9 @@ FILMS = {
             "Konstantin Bronzit",
             "Timur Kognov",
         ],
+        "writers": [
+            "Konstantin Bronzit",
+        ],
         "cast_and_crew": [],
         "genre": [
             "animation",
@@ -644,6 +731,9 @@ FILMS = {
             "Best picture",
         ],
         "directors": [
+            "Kleber Mendonça Filho",
+        ],
+        "writers": [
             "Kleber Mendonça Filho",
         ],
         "cast_and_crew": [
@@ -669,6 +759,7 @@ FILMS = {
         "directors": [
             "Bess Kargman",
         ],
+        "writers": [],
         "cast_and_crew": [
             "Diane Warren",
         ],
@@ -686,6 +777,11 @@ FILMS = {
         ],
         "directors": [
             "Chris Appelhans",
+            "Maggie Kang",
+        ],
+        "writers": [
+            "Danya Jimenez",
+            "Hannah McMechan",
             "Maggie Kang",
         ],
         "cast_and_crew": [
@@ -713,6 +809,10 @@ FILMS = {
         "directors": [
             "Yvonne Russo",
         ],
+        "writers": [
+            "Christine La Monte",
+            "Yvonne Russo",
+        ],
         "cast_and_crew": [
             "Christine La Monte",
             "Claudio Giombi",
@@ -735,6 +835,11 @@ FILMS = {
             "Andrew Jarecki",
             "Charlotte Kaufman",
         ],
+        "writers": [
+            "Andrew Jarecki",
+            "Charlotte Kaufman",
+            "Page Marsella",
+        ],
         "cast_and_crew": [
             "Page Marsella",
         ],
@@ -751,6 +856,7 @@ FILMS = {
         "directors": [
             "Ryan White",
         ],
+        "writers": [],
         "cast_and_crew": [],
         "genre": [
             "biography",
@@ -768,6 +874,7 @@ FILMS = {
             "Mohammadreza Eyni",
             "Sara Khaki",
         ],
+        "writers": [],
         "cast_and_crew": [
             "Sarah Shahverdi",
         ],
@@ -787,6 +894,9 @@ FILMS = {
             "Pavel Talankin",
             "David Borenstein",
         ],
+        "writers": [
+            "David Borenstein",
+        ],
         "cast_and_crew": [],
         "genre": [
             "documentary",
@@ -802,6 +912,7 @@ FILMS = {
         "directors": [
             "Geeta Gandbhir",
         ],
+        "writers": [],
         "cast_and_crew": [],
         "genre": [
             "documentary",
@@ -818,6 +929,7 @@ FILMS = {
         "directors": [
             "Joshua Seftel",
         ],
+        "writers": [],
         "cast_and_crew": [],
         "genre": [
             "documentary",
@@ -834,6 +946,7 @@ FILMS = {
             "Brent Renaud",
             "Craig Renaud",
         ],
+        "writers": [],
         "cast_and_crew": [],
         "genre": [
             "documentary",
@@ -849,6 +962,7 @@ FILMS = {
         "directors": [
             "Hilla Medalia",
         ],
+        "writers": [],
         "cast_and_crew": [],
         "genre": [
             "documentary",
@@ -866,6 +980,7 @@ FILMS = {
             "Geeta Gandbhir",
             "Christalyn Hampton",
         ],
+        "writers": [],
         "cast_and_crew": [
             "Houston Diaz",
         ],
@@ -883,6 +998,9 @@ FILMS = {
         "directors": [
             "Alison McAlpine",
         ],
+        "writers": [
+            "Alison McAlpine",
+        ],
         "cast_and_crew": [],
         "genre": [
             "documentary",
@@ -897,6 +1015,10 @@ FILMS = {
             "Best sound",
         ],
         "directors": [
+            "Oliver Laxe",
+        ],
+        "writers": [
+            "Santiago Fillol",
             "Oliver Laxe",
         ],
         "cast_and_crew": [
@@ -924,6 +1046,9 @@ FILMS = {
         "directors": [
             "Kaouther Ben Hania",
         ],
+        "writers": [
+            "Kaouther Ben Hania",
+        ],
         "cast_and_crew": [
             "Saja Kilani",
             "Motaz Malhees",
@@ -942,6 +1067,10 @@ FILMS = {
         ],
         "directors": [
             "Ugo Bienvenu",
+        ],
+        "writers": [
+            "Ugo Bienvenu",
+            "Félix de Givry",
         ],
         "cast_and_crew": [
             "Félix de Givry",
@@ -966,6 +1095,11 @@ FILMS = {
             "Adrian Molina",
             "Madeline Sharafian",
             "Domee Shi",
+        ],
+        "writers": [
+            "Julia Cho",
+            "Mark Hammer",
+            "Mike Jones",
         ],
         "cast_and_crew": [
             "Julia Cho",
@@ -994,6 +1128,11 @@ FILMS = {
             "Maïlys Vallade",
             "Liane-Cho Han Jin Kuang",
         ],
+        "writers": [
+            "Liane-Cho Han Jin Kuang",
+            "Aude Py",
+            "Amélie Nothomb",
+        ],
         "cast_and_crew": [
             "Aude Py",
             "Amélie Nothomb",
@@ -1013,6 +1152,10 @@ FILMS = {
             "Best animated feature film",
         ],
         "directors": [
+            "Jared Bush",
+            "Byron Howard",
+        ],
+        "writers": [
             "Jared Bush",
             "Byron Howard",
         ],
@@ -1040,6 +1183,10 @@ FILMS = {
         "directors": [
             "Joseph Kosinski",
         ],
+        "writers": [
+            "Joseph Kosinski",
+            "Ehren Kruger",
+        ],
         "cast_and_crew": [
             "Ehren Kruger",
             "Brad Pitt",
@@ -1061,6 +1208,12 @@ FILMS = {
         ],
         "directors": [
             "James Cameron",
+        ],
+        "writers": [
+            "James Cameron",
+            "Rick Jaffa",
+            "Amanda Silver",
+            "Josh Friedman",
         ],
         "cast_and_crew": [
             "Rick Jaffa",
@@ -1086,6 +1239,10 @@ FILMS = {
         "directors": [
             "Gareth Edwards",
         ],
+        "writers": [
+            "David Koepp",
+            "Michael Crichton",
+        ],
         "cast_and_crew": [
             "David Koepp",
             "Michael Crichton",
@@ -1109,6 +1266,11 @@ FILMS = {
         "directors": [
             "Paul Greengrass",
         ],
+        "writers": [
+            "Brad Ingelsby",
+            "Paul Greengrass",
+            "Lizzie Johnson",
+        ],
         "cast_and_crew": [
             "Brad Ingelsby",
             "Lizzie Johnson",
@@ -1131,6 +1293,9 @@ FILMS = {
         "directors": [
             "Mary Bronstein",
         ],
+        "writers": [
+            "Mary Bronstein",
+        ],
         "cast_and_crew": [
             "Rose Byrne",
             "Delaney Quinn",
@@ -1149,6 +1314,10 @@ FILMS = {
         ],
         "directors": [
             "Craig Brewer",
+        ],
+        "writers": [
+            "Craig Brewer",
+            "Greg Kohs",
         ],
         "cast_and_crew": [
             "Greg Kohs",
