@@ -1,10 +1,10 @@
-def is_valid_num_option(option, minAllowed=1, maxAllowed=10):
+def is_valid_num_option(option, min_allowed=1, max_allowed=10):
     if not option:
         return False
 
     try:
         option_num = int(option)
-        if option_num < minAllowed or option_num > maxAllowed:
+        if option_num < min_allowed or option_num > max_allowed:
             return False
     except ValueError:
         return False

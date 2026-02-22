@@ -31,7 +31,7 @@ def prompt_selection_list(options, lead_msg):
     if options_len > 1:
         prompt = "Enter a number corresponding to an option:\n"
         option = input(prompt).strip()
-        is_valid = is_valid_num_option(option, maxAllowed=options_len)
+        is_valid = is_valid_num_option(option, max_allowed=options_len)
 
         if not is_valid:
             print(f'"{option}" is not a valid option\n')

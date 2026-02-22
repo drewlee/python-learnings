@@ -44,3 +44,5 @@ def prompt_for_category():
     if should_re_prompt:
         print("\n")
         return prompt_for_category()
+
+    return None

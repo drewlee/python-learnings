@@ -13,3 +13,6 @@ dev = [
 
 [tool.black]
 line-length = 88
+
+[tool.pylint]
+disable = "missing-function-docstring, missing-module-docstring, too-many-lines"

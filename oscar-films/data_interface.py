@@ -26,10 +26,10 @@ def get_genres_for_sbstr(substring):
 
 def get_films_for_entity(entity, key):
     matches = []
-    for film in FILMS:
-        if entity in FILMS[film][key]:
+    for film, items in FILMS.items():
+        if entity in items[key]:
             match_dict = {"name": film}
-            match_dict.update(FILMS[film])
+            match_dict.update(items)
             matches.append(match_dict)
     matches.sort(key=lambda x: x["name"])
     return matches
@@ -46,12 +46,12 @@ def get_films_for_category(category):
 def get_films_for_name(name):
     matches = {}
 
-    for film in FILMS:
+    for film, items in FILMS.items():
         members = set(
-            FILMS[film]["directors"]
-            + FILMS[film]["writers"]
-            + FILMS[film]["starring"]
-            + FILMS[film]["cast_and_crew"]
+            items["directors"]
+            + items["writers"]
+            + items["starring"]
+            + items["cast_and_crew"]
         )
 
         for member in members:
@@ -60,7 +60,7 @@ def get_films_for_name(name):
                     matches[member] = []
 
                 match_dict = {"name": film}
-                match_dict.update(FILMS[film])
+                match_dict.update(items)
                 matches[member].append(match_dict)
 
     return matches

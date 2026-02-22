@@ -28,3 +28,5 @@ def prompt_for_name():
     if should_re_prompt:
         print("\n")
         return prompt_for_name()
+
+    return None
