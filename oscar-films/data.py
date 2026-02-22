@@ -70,7 +70,6 @@ FILMS = {
             "Joachim Trier",
         ],
         "cast_and_crew": [
-            "Eskil Vogt",
             "Olivier Bugge Coutté",
             "Elle Fanning",
             "Renate Reinsve",
@@ -239,8 +238,6 @@ FILMS = {
             "Shûichi Yoshida",
         ],
         "cast_and_crew": [
-            "Satoko Okudera",
-            "Shûichi Yoshida",
             "Ryô Yoshizawa",
             "Ryûsei Yokohama",
             "Mitsuki Takahata",
@@ -315,8 +312,6 @@ FILMS = {
             "Jang Joon-hwan",
         ],
         "cast_and_crew": [
-            "Will Tracy",
-            "Jang Joon-hwan",
             "Jerskin Fendrix",
             "Emma Stone",
             "Jesse Plemons",
@@ -349,7 +344,6 @@ FILMS = {
             "Maggie O'Farrell",
         ],
         "cast_and_crew": [
-            "Maggie O'Farrell",
             "Max Richter",
             "Nina Gold",
             "Malgosia Turzanska",
@@ -381,8 +375,6 @@ FILMS = {
             "Denis Johnson",
         ],
         "cast_and_crew": [
-            "Greg Kwedar",
-            "Denis Johnson",
             "Joel Edgerton",
             "Clifton Collins Jr.",
             "Felicity Jones",
@@ -476,7 +468,6 @@ FILMS = {
             "Ivan Turgenev",
         ],
         "cast_and_crew": [
-            "Ivan Turgenev",
             "Michael Young",
             "Chris Smither",
             "Will Harrington",
@@ -529,7 +520,6 @@ FILMS = {
             "Robert Kaplow",
         ],
         "cast_and_crew": [
-            "Robert Kaplow",
             "Lorenz Hart",
             "Elizabeth Weiland",
             "Ethan Hawke",
@@ -592,7 +582,6 @@ FILMS = {
             "Josh Safdie",
         ],
         "cast_and_crew": [
-            "Ronald Bronstein",
             "Jennifer Venditti",
             "Miyako Bellizzi",
             "Timothee Chalamet",
@@ -618,7 +607,6 @@ FILMS = {
             "Florence Miailhe",
         ],
         "cast_and_crew": [
-            "Marie Desplechin",
             "Fayçal Safi",
             "Jessica Jaouiche",
         ],
@@ -691,7 +679,6 @@ FILMS = {
             "Tara Lawall",
         ],
         "cast_and_crew": [
-            "Tara Lawall",
             "Domhnall Gleeson",
         ],
         "genre": [
@@ -785,8 +772,6 @@ FILMS = {
             "Maggie Kang",
         ],
         "cast_and_crew": [
-            "Danya Jimenez",
-            "Hannah McMechan",
             "Arden Cho",
             "Ahn Hyo-seop",
             "May Hong",
@@ -814,7 +799,6 @@ FILMS = {
             "Yvonne Russo",
         ],
         "cast_and_crew": [
-            "Christine La Monte",
             "Claudio Giombi",
             "Tina Aliprandi",
             "Chitose Matsumoto",
@@ -840,9 +824,7 @@ FILMS = {
             "Charlotte Kaufman",
             "Page Marsella",
         ],
-        "cast_and_crew": [
-            "Page Marsella",
-        ],
+        "cast_and_crew": [],
         "genre": [
             "documentary",
         ],
@@ -1022,7 +1004,6 @@ FILMS = {
             "Oliver Laxe",
         ],
         "cast_and_crew": [
-            "Santiago Fillol",
             "Sergi López",
             "Stefania Gadda",
             "Bruno Núñez Arjona",
@@ -1073,7 +1054,6 @@ FILMS = {
             "Félix de Givry",
         ],
         "cast_and_crew": [
-            "Félix de Givry",
             "Margot Ringard Oldra",
             "Oscar Tresanini",
             "Nathanaël Perrot",
@@ -1102,9 +1082,6 @@ FILMS = {
             "Mike Jones",
         ],
         "cast_and_crew": [
-            "Julia Cho",
-            "Mark Hammer",
-            "Mike Jones",
             "Zoe Saldaña",
             "Yonas Kibreab",
             "Remy Edgerly",
@@ -1134,8 +1111,6 @@ FILMS = {
             "Amélie Nothomb",
         ],
         "cast_and_crew": [
-            "Aude Py",
-            "Amélie Nothomb",
             "Loïse Charpentier",
             "Victoria Grobois",
             "Yumi Fujimori",
@@ -1188,7 +1163,6 @@ FILMS = {
             "Ehren Kruger",
         ],
         "cast_and_crew": [
-            "Ehren Kruger",
             "Brad Pitt",
             "Kerry Condon",
             "Damson Idris",
@@ -1216,9 +1190,6 @@ FILMS = {
             "Josh Friedman",
         ],
         "cast_and_crew": [
-            "Rick Jaffa",
-            "Amanda Silver",
-            "Josh Friedman",
             "Zoe Saldaña",
             "Sam Worthington",
             "Sigourney Weaver",
@@ -1244,8 +1215,6 @@ FILMS = {
             "Michael Crichton",
         ],
         "cast_and_crew": [
-            "David Koepp",
-            "Michael Crichton",
             "Scarlett Johansson",
             "Mahershala Ali",
             "Jonathan Bailey",
@@ -1272,8 +1241,6 @@ FILMS = {
             "Lizzie Johnson",
         ],
         "cast_and_crew": [
-            "Brad Ingelsby",
-            "Lizzie Johnson",
             "Matthew McConaughey",
             "America Ferrera",
             "Yul Vazquez",
@@ -1320,7 +1287,6 @@ FILMS = {
             "Greg Kohs",
         ],
         "cast_and_crew": [
-            "Greg Kohs",
             "Kate Hudson",
             "Hugh Jackman",
             "Michael Imperioli",

@@ -33,6 +33,7 @@ def get_films_for_entity(entity, key):
                 "category": FILMS[film]["category"],
                 "year": FILMS[film]["release_year"],
                 "directors": FILMS[film]["directors"],
+                "writers": FILMS[film]["writers"],
             }
             matches.append(match_dict)
     matches.sort(key=lambda x: x["name"])
@@ -51,7 +52,11 @@ def get_films_for_name(name):
     matches = {}
 
     for film in FILMS:
-        members = FILMS[film]["directors"] + FILMS[film]["cast_and_crew"]
+        members = (
+            FILMS[film]["directors"]
+            + FILMS[film]["cast_and_crew"]
+            + FILMS[film]["writers"]
+        )
 
         for member in members:
             if name.lower() in member.lower():
@@ -63,6 +68,7 @@ def get_films_for_name(name):
                     "category": FILMS[film]["category"],
                     "year": FILMS[film]["release_year"],
                     "directors": FILMS[film]["directors"],
+                    "writers": FILMS[film]["writers"],
                 }
                 matches[member].append(match_dict)
 
