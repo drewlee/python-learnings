@@ -1,5 +1,13 @@
-from data_interface import get_all_genres, get_genres_for_sbstr, get_films_for_genre
-from shared_prompts import get_selection_msg, prompt_selection_list, prompt_yes_no
+from data_interface import (
+    get_all_genres,
+    get_genres_for_sbstr,
+    get_films_for_genre,
+)
+from shared_prompts import (
+    get_selection_msg,
+    prompt_selection_list,
+    prompt_yes_no,
+)
 
 
 def format_genres(genres):

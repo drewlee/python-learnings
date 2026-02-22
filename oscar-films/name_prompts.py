@@ -1,4 +1,8 @@
-from shared_prompts import prompt_yes_no, get_selection_msg, prompt_selection_list
+from shared_prompts import (
+    prompt_yes_no,
+    get_selection_msg,
+    prompt_selection_list,
+)
 from data_interface import get_films_for_name
 
 

@@ -13,4 +13,4 @@ def is_valid_num_option(option, minAllowed=1, maxAllowed=10):
 
 
 def is_valid_yes_no_option(option):
-    return option.lower() == 'y' or option.lower() == 'n'
+    return option.lower() == "y" or option.lower() == "n"

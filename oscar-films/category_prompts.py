@@ -3,7 +3,11 @@ from data_interface import (
     get_categories_for_sbstr,
     get_films_for_category,
 )
-from shared_prompts import prompt_yes_no, prompt_selection_list, get_selection_msg
+from shared_prompts import (
+    prompt_yes_no,
+    prompt_selection_list,
+    get_selection_msg,
+)
 
 
 def prompt_for_category():
