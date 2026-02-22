@@ -13,6 +13,16 @@ def print_film_recs(films, criteria):
     for film in films:
         # Film name
         out += f"\n  {film["name"]}\n\n"
+        out += "  " + "-" * len(film["name"]) + "\n\n"
+
+        # Release year
+        out += f"    Release year: {film["year"]}\n\n"
+
+        # Directors
+        out += "    Directed by:\n"
+        for item in film["directors"]:
+            out += f"    - {item}\n"
+        out += "\n"
 
         # Nominations
         out += "    Nominated for:\n"
