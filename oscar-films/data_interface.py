@@ -49,11 +49,21 @@ def get_films_for_category(category):
 
 def get_films_for_name(name):
     matches = {}
+
     for film in FILMS:
-        for member in FILMS[film]["cast_and_crew"]:
+        members = FILMS[film]["directors"] + FILMS[film]["cast_and_crew"]
+
+        for member in members:
             if name.lower() in member.lower():
                 if member not in matches:
                     matches[member] = []
-                matches[member].append(film)
+
+                match_dict = {
+                    "name": film,
+                    "category": FILMS[film]["category"],
+                    "year": FILMS[film]["release_year"],
+                    "directors": FILMS[film]["directors"],
+                }
+                matches[member].append(match_dict)
 
     return matches

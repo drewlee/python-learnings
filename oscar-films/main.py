@@ -7,7 +7,7 @@ from utils import get_divider_line, print_divider
 
 
 def print_film_recs(films, criteria):
-    # print(films)
+    print(films)
     out = f'Film recommendations based on "{criteria}":\n'
     # out += get_divider_line()
     for film in films:

@@ -66,7 +66,6 @@ FILMS = {
             "Joachim Trier",
         ],
         "cast_and_crew": [
-            "Joachim Trier",
             "Eskil Vogt",
             "Olivier Bugge Coutté",
             "Elle Fanning",
@@ -89,7 +88,6 @@ FILMS = {
             "Zach Cregger",
         ],
         "cast_and_crew": [
-            "Zach Cregger",
             "Julia Garner",
             "Josh Brolin",
             "Alden Ehrenreich",
@@ -124,7 +122,6 @@ FILMS = {
             "Ryan Coogler",
         ],
         "cast_and_crew": [
-            "Ryan Coogler",
             "Michael P. Shawver",
             "Ruth E. Carter",
             "Ludwig Göransson",
@@ -164,7 +161,6 @@ FILMS = {
             "Paul Thomas Anderson",
         ],
         "cast_and_crew": [
-            "Paul Thomas Anderson",
             "Cassandra Kulukundis",
             "Andy Jurgensen",
             "Jonny Greenwood",
@@ -222,7 +218,6 @@ FILMS = {
             "Sang-il Lee",
         ],
         "cast_and_crew": [
-            "Sang-il Lee",
             "Satoko Okudera",
             "Shûichi Yoshida",
             "Ryô Yoshizawa",
@@ -244,7 +239,6 @@ FILMS = {
             "Benny Safdie",
         ],
         "cast_and_crew": [
-            "Benny Safdie",
             "Dwayne Johnson",
             "Emily Blunt",
             "Ryan Bader",
@@ -266,7 +260,6 @@ FILMS = {
             "Emilie Blichfeldt",
         ],
         "cast_and_crew": [
-            "Emilie Blichfeldt",
             "Lea Myren",
             "Ane Dahl Torp",
             "Thea Sofie Loch Næss",
@@ -291,7 +284,6 @@ FILMS = {
             "Yorgos Lanthimos",
         ],
         "cast_and_crew": [
-            "Yorgos Lanthimos",
             "Will Tracy",
             "Jang Joon-hwan",
             "Jerskin Fendrix",
@@ -322,7 +314,6 @@ FILMS = {
             "Chloé Zhao",
         ],
         "cast_and_crew": [
-            "Chloé Zhao",
             "Maggie O'Farrell",
             "Max Richter",
             "Nina Gold",
@@ -350,7 +341,6 @@ FILMS = {
             "Clint Bentley",
         ],
         "cast_and_crew": [
-            "Clint Bentley",
             "Greg Kwedar",
             "Denis Johnson",
             "Joel Edgerton",
@@ -372,7 +362,6 @@ FILMS = {
             "Meyer Levinson-Blount",
         ],
         "cast_and_crew": [
-            "Meyer Levinson-Blount",
             "Omar Sameer",
             "Rona Toledano",
         ],
@@ -393,8 +382,6 @@ FILMS = {
             "Steve Pinder",
         ],
         "cast_and_crew": [
-            "Julia Aks",
-            "Steve Pinder",
             "Ta'imua",
             "Samantha Smart",
             "Nicole Alyse Nelson",
@@ -415,7 +402,6 @@ FILMS = {
             "Lee Knight",
         ],
         "cast_and_crew": [
-            "Lee Knight",
             "Alistair Nwachukwu",
             "Oscar Lloyd",
             "Stephen Fry",
@@ -437,7 +423,6 @@ FILMS = {
             "Sam A. Davis",
         ],
         "cast_and_crew": [
-            "Sam A. Davis",
             "Ivan Turgenev",
             "Michael Young",
             "Chris Smither",
@@ -461,8 +446,6 @@ FILMS = {
             "Alexandre Singh",
         ],
         "cast_and_crew": [
-            "Natalie Musteata",
-            "Alexandre Singh",
             "Zar Amir Ebrahimi",
             "Luàna Bajrami",
             "Vicky Krieps",
@@ -486,7 +469,6 @@ FILMS = {
             "Richard Linklater",
         ],
         "cast_and_crew": [
-            "Richard Linklater",
             "Robert Kaplow",
             "Lorenz Hart",
             "Elizabeth Weiland",
@@ -512,7 +494,6 @@ FILMS = {
             "Jafar Panahi",
         ],
         "cast_and_crew": [
-            "Jafar Panahi",
             "Nader Saeivar",
             "Shadmehr Rastin",
             "Vahid Mobasseri",
@@ -544,7 +525,6 @@ FILMS = {
             "Josh Safdie",
         ],
         "cast_and_crew": [
-            "Josh Safdie",
             "Ronald Bronstein",
             "Jennifer Venditti",
             "Miyako Bellizzi",
@@ -567,7 +547,6 @@ FILMS = {
             "Florence Miailhe",
         ],
         "cast_and_crew": [
-            "Florence Miailhe",
             "Marie Desplechin",
             "Fayçal Safi",
             "Jessica Jaouiche",
@@ -591,10 +570,7 @@ FILMS = {
             "Nathan Engelhardt",
             "Jeremy Spears",
         ],
-        "cast_and_crew": [
-            "Nathan Engelhardt",
-            "Jeremy Spears",
-        ],
+        "cast_and_crew": [],
         "genre": [
             "animation",
             "short",
@@ -611,8 +587,6 @@ FILMS = {
             "Maciek Szczerbowski",
         ],
         "cast_and_crew": [
-            "Chris Lavis",
-            "Maciek Szczerbowski",
             "Colm Feore",
             "Gabrielle Dallaire",
         ],
@@ -633,7 +607,6 @@ FILMS = {
             "John Kelly",
         ],
         "cast_and_crew": [
-            "John Kelly",
             "Tara Lawall",
             "Domhnall Gleeson",
         ],
@@ -653,9 +626,7 @@ FILMS = {
             "Konstantin Bronzit",
             "Timur Kognov",
         ],
-        "cast_and_crew": [
-            "Konstantin Bronzit",
-        ],
+        "cast_and_crew": [],
         "genre": [
             "animation",
             "comedy",
@@ -676,7 +647,6 @@ FILMS = {
             "Kleber Mendonça Filho",
         ],
         "cast_and_crew": [
-            "Kleber Mendonça Filho",
             "Gabriel Domingues",
             "Wagner Moura",
             "Robson Andrade",
@@ -700,7 +670,6 @@ FILMS = {
             "Bess Kargman",
         ],
         "cast_and_crew": [
-            "Bess Kargman",
             "Diane Warren",
         ],
         "genre": [
@@ -720,11 +689,8 @@ FILMS = {
             "Maggie Kang",
         ],
         "cast_and_crew": [
-            "Chris Appelhans",
-            "Maggie Kang",
             "Danya Jimenez",
             "Hannah McMechan",
-            "Maggie Kang",
             "Arden Cho",
             "Ahn Hyo-seop",
             "May Hong",
@@ -748,7 +714,6 @@ FILMS = {
             "Yvonne Russo",
         ],
         "cast_and_crew": [
-            "Yvonne Russo",
             "Christine La Monte",
             "Claudio Giombi",
             "Tina Aliprandi",
@@ -771,8 +736,6 @@ FILMS = {
             "Charlotte Kaufman",
         ],
         "cast_and_crew": [
-            "Andrew Jarecki",
-            "Charlotte Kaufman",
             "Page Marsella",
         ],
         "genre": [
@@ -788,9 +751,7 @@ FILMS = {
         "directors": [
             "Ryan White",
         ],
-        "cast_and_crew": [
-            "Ryan White",
-        ],
+        "cast_and_crew": [],
         "genre": [
             "biography",
             "documentary",
@@ -808,8 +769,6 @@ FILMS = {
             "Sara Khaki",
         ],
         "cast_and_crew": [
-            "Mohammadreza Eyni",
-            "Sara Khaki",
             "Sarah Shahverdi",
         ],
         "genre": [
@@ -828,10 +787,7 @@ FILMS = {
             "Pavel Talankin",
             "David Borenstein",
         ],
-        "cast_and_crew": [
-            "Pavel Talankin",
-            "David Borenstein",
-        ],
+        "cast_and_crew": [],
         "genre": [
             "documentary",
             "international",
@@ -846,9 +802,7 @@ FILMS = {
         "directors": [
             "Geeta Gandbhir",
         ],
-        "cast_and_crew": [
-            "Geeta Gandbhir",
-        ],
+        "cast_and_crew": [],
         "genre": [
             "documentary",
             "drama",
@@ -864,9 +818,7 @@ FILMS = {
         "directors": [
             "Joshua Seftel",
         ],
-        "cast_and_crew": [
-            "Joshua Seftel",
-        ],
+        "cast_and_crew": [],
         "genre": [
             "documentary",
             "short",
@@ -882,10 +834,7 @@ FILMS = {
             "Brent Renaud",
             "Craig Renaud",
         ],
-        "cast_and_crew": [
-            "Brent Renaud",
-            "Craig Renaud",
-        ],
+        "cast_and_crew": [],
         "genre": [
             "documentary",
             "short",
@@ -900,9 +849,7 @@ FILMS = {
         "directors": [
             "Hilla Medalia",
         ],
-        "cast_and_crew": [
-            "Hilla Medalia",
-        ],
+        "cast_and_crew": [],
         "genre": [
             "documentary",
             "international",
@@ -920,8 +867,6 @@ FILMS = {
             "Christalyn Hampton",
         ],
         "cast_and_crew": [
-            "Geeta Gandbhir",
-            "Christalyn Hampton",
             "Houston Diaz",
         ],
         "genre": [
@@ -938,9 +883,7 @@ FILMS = {
         "directors": [
             "Alison McAlpine",
         ],
-        "cast_and_crew": [
-            "Alison McAlpine",
-        ],
+        "cast_and_crew": [],
         "genre": [
             "documentary",
             "short",
@@ -957,7 +900,6 @@ FILMS = {
             "Oliver Laxe",
         ],
         "cast_and_crew": [
-            "Oliver Laxe",
             "Santiago Fillol",
             "Sergi López",
             "Stefania Gadda",
@@ -983,7 +925,6 @@ FILMS = {
             "Kaouther Ben Hania",
         ],
         "cast_and_crew": [
-            "Kaouther Ben Hania",
             "Saja Kilani",
             "Motaz Malhees",
             "Clara Khoury",
@@ -1003,7 +944,6 @@ FILMS = {
             "Ugo Bienvenu",
         ],
         "cast_and_crew": [
-            "Ugo Bienvenu",
             "Félix de Givry",
             "Margot Ringard Oldra",
             "Oscar Tresanini",
@@ -1028,9 +968,6 @@ FILMS = {
             "Domee Shi",
         ],
         "cast_and_crew": [
-            "Adrian Molina",
-            "Madeline Sharafian",
-            "Domee Shi",
             "Julia Cho",
             "Mark Hammer",
             "Mike Jones",
@@ -1058,8 +995,6 @@ FILMS = {
             "Liane-Cho Han Jin Kuang",
         ],
         "cast_and_crew": [
-            "Maïlys Vallade",
-            "Liane-Cho Han Jin Kuang",
             "Aude Py",
             "Amélie Nothomb",
             "Loïse Charpentier",
@@ -1082,8 +1017,6 @@ FILMS = {
             "Byron Howard",
         ],
         "cast_and_crew": [
-            "Jared Bush",
-            "Byron Howard",
             "Jason Bateman",
             "Ginnifer Goodwin",
             "Ke Huy Quan",
@@ -1108,7 +1041,6 @@ FILMS = {
             "Joseph Kosinski",
         ],
         "cast_and_crew": [
-            "Joseph Kosinski",
             "Ehren Kruger",
             "Brad Pitt",
             "Kerry Condon",
@@ -1131,7 +1063,6 @@ FILMS = {
             "James Cameron",
         ],
         "cast_and_crew": [
-            "James Cameron",
             "Rick Jaffa",
             "Amanda Silver",
             "Josh Friedman",
@@ -1156,7 +1087,6 @@ FILMS = {
             "Gareth Edwards",
         ],
         "cast_and_crew": [
-            "Gareth Edwards",
             "David Koepp",
             "Michael Crichton",
             "Scarlett Johansson",
@@ -1180,7 +1110,6 @@ FILMS = {
             "Paul Greengrass",
         ],
         "cast_and_crew": [
-            "Paul Greengrass",
             "Brad Ingelsby",
             "Lizzie Johnson",
             "Matthew McConaughey",
@@ -1203,7 +1132,6 @@ FILMS = {
             "Mary Bronstein",
         ],
         "cast_and_crew": [
-            "Mary Bronstein",
             "Rose Byrne",
             "Delaney Quinn",
             "Conan O'Brien",
@@ -1223,7 +1151,6 @@ FILMS = {
             "Craig Brewer",
         ],
         "cast_and_crew": [
-            "Craig Brewer",
             "Greg Kohs",
             "Kate Hudson",
             "Hugh Jackman",

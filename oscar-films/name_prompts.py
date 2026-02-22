@@ -17,6 +17,7 @@ def prompt_for_name():
         selection_msg = get_selection_msg("member", "members", len(members), name)
         selected_idx = prompt_selection_list(members, selection_msg)
         member = members[selected_idx]
+        print(films)
         return films[member], member
 
     print(f'No matches found for "{name}". Try again?')
