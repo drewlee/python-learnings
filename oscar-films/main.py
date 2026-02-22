@@ -67,7 +67,7 @@ def run():
         elif selection == 2:
             recs = prompt_for_name()
         else:
-            raise Exception("Invalid selection value")
+            raise ValueError(f"Invalid selection value: {selection!r}")
 
         if recs and len(recs) == 2:
             films, criteria = recs
@@ -77,7 +77,10 @@ def run():
             if not prompt_yes_no():
                 break
         else:
-            raise Exception("Invalid recommendations format")
+            raise TypeError(
+                "Invalid recommendations format: "
+                f"expected (films, criteria), got {recs!r}"
+            )
 
 
 if __name__ == "__main__":
